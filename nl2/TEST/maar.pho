@@ -1,0 +1,54 @@
+; MAAR.PHO
+;
+; Demo for MBROLA with NL1 diphone database for Dutch
+;
+; Created by Arthur Dirksen and Ludmila Menert, Utrecht
+; December 1996
+;
+; Utterance: 		Jaa, dat is nou wel erg leuk allemaal, maar wat moet je ermee?
+; Translatation: 	Yeah, that's all nice and well, but what is it good for?
+; Speaking style: 	casual
+;
+_ 150 100 101 
+j 113 
+a 203 2 91 77 101 
+d 39 67 99 
+A 57 23 103 68 102 95 96 
+t 77 79 126 
+I 52 62 108 98 107 
+s 56 
+n 30 17 114 
+Au 69 38 110 
+w 73 66 93 82 103 
+@ 61 5 100 31 99 61 94 
+L 32 81 96 
+E 79 8 101 97 101 
+R 52 85 96 
+G 103 12 91 
+l 42 67 108 
+2 98 3 101 44 99 59 110 76 113 96 122 
+k 120 13 124 
+A 58 31 101 
+l 48 
+@ 50 20 89 
+m 116 28 87 
+a 115 22 76 
+L 69 38 89 87 91 
+_ 34 15 104 
+_ 200 
+m 26 92 107 
+a 37 38 108 81 105 
+R 32 
+w 51 16 109 51 107 
+A 55 35 118 
+t 22 64 117 100 112 
+m 71 49 112 83 116 99 119 
+u 66 23 134 47 136 
+tj 119 10 134 
+@ 30 
+E 59 17 134 63 133 
+R 55 24 121 
+m 112 7 104 31 105 54 104 90 96 
+e 197 16 92 36 83 
+_ 12 9 80 
+_ 192 

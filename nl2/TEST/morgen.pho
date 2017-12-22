@@ -1,0 +1,23 @@
+; MORGEN.PHO
+;
+; Demo for MBROLA with NL1 diphone database for Dutch
+;
+; Created by Arthur Dirksen and Ludmila Menert, Utrecht
+; December 1996
+;
+; Utterance: 		Goedemorgen!
+; Translatation: 	Good morning!
+; Speaking style: 	formal/casual
+;
+_ 91 
+G 107 2 204 73 219 88 219 
+u 54 35 192 
+d 46 37 187 
+@ 30 13 142 
+m 79 9 135 29 104 95 89 
+O 78 
+R 99 
+G 103 7 76 
+@ 104 32 130 
+n 36 
+_ 162 16 141 

@@ -1,0 +1,45 @@
+; This file enables the use of a Roman phonetic notation system 
+; with hn1 (which uses SAMPA by default)
+
+; (notice ngo has no SAMPA equivalent (?))
+
+RENAME k g
+RENAME k_> gg
+RENAME t d
+RENAME t_> dd
+RENAME 4 r
+RENAME p b
+RENAME p_> bb
+RENAME s_> ss
+RENAME ts\ j
+RENAME ts\_> jj
+RENAME ts\_h ch
+RENAME k_h k
+RENAME t_h t
+RENAME p_h p
+RENAME g gv
+RENAME d dv
+RENAME b bv
+RENAME dz\ jv
+RENAME s\ sh
+RENAME l lo
+RENAME k_} gc
+RENAME n_} nc
+RENAME t_} dc
+RENAME l_} l
+RENAME m_} mc
+RENAME p_} bc
+RENAME N ng
+RENAME E ae
+RENAME ja ya
+RENAME jE yae
+RENAME V eo
+RENAME jV yeo
+RENAME je ye
+RENAME wE wae
+RENAME 2 oe
+RENAME jo yo
+RENAME wV weo
+RENAME ju yu
+RENAME M eu
+RENAME M\i eui

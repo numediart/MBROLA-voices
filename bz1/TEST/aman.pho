@@ -1,0 +1,20 @@
+; aman~ 'man~ ma zad ha ma mamm (aman~ eman~ ma zad ha ma mamm)
+; [= here's my father and my mother / voici ma mere et mon pere]
+_        100
+A~      100  0 180  
+m       100
+A~      100  
+m       100  
+A~      100  0 150   
+m       100   
+A        100 
+z        150 20 150   100 165
+A:        300 0 165   55 200   100 200    
+d        75  100 200       
+A        75   0 200    100 150
+m       100 0 150   100 130
+A        100 20 125 
+m       160 25 120   75  125
+A~      100 30 150
+m       130 45 130
+_        100

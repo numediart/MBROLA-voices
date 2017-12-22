@@ -1,0 +1,150 @@
+ GGGGGG        RRRRR         22222222 
+GG    GG      RR   RR       222     222
+GG            RR   RR      22        22
+GG            RR   R               222
+GG   GGGGGG   RRRRRR             2222
+GG    GG  G   RR  RR       22222222
+GG    GG      RR   RR     222
+GG    GG      RR    RR    2222
+ GGGGGG       RR     RR   22222222222.v1.May2001
+--------------------------------------------------------------
+GR2 - An Hellenic (or Greek) male voice for the MBROLA synthesizer
+
+Created by :	Speech Group		
+		Department of Informatics and Telecommunications
+		University of Athens
+		http://www.di.uoa.gr/speech
+              
+-------------------------------------------------------
+Table of Contents
+-------------------------------------------------------
+1. Description of GR2 database    
+	a. UoA-TtS-PA
+	b. Use
+2. Distribution and test
+3. Acknowledgments
+
+-------------------------------------------------------
+1. Brief description of GR2 database
+-------------------------------------------------------
+GR2 is an Hellenic male diphone database provided in the
+context of the MBROLA project (http://tcts.fpms.ac.be/synthesis).
+
+It consists of 1081 diphones.
+
+We use the UoA-TtS-PA phonetic alphabet for Text-to-Speech systems 
+version 1 (http://www.di.uoa.gr/speech/synthesis/ttspa), which inherits from SAMPA 
+but additionally, it introduces some group of phones as clusters. 
+This enhances the phonemic representation in Text-to-Speech synthesizers, 
+because complex coarticulations are handled as single clusters and not as 
+concatenation of discrete phones.
+
+a. UoA-TtS-PA
+-------------
+General rules:
+- We use the notion of 'cluster' instead of 'phoneme' as some units in the database
+comprises of more than one traditional 'phoneme' (e.g. /X/ -> /k//s/)
+- Each cluster is assigned to a single byte (ASCII character) for faster processing
+in the Text-to-Speech system
+- Capital vowels imply accents (e.g. /A/ instead of /'a/), but there is not such a 
+distinction in the current version of the database.
+- Thus, 37 clusters are currently defined:
+
+UoA-TtS-PA 	SAMPA	Example 	Hellenic transcription (ISO8859-7)(English)
+_		_	(silence)	(παύση) (pause)
+
+[consonants]
+p		p	patAta		πατάτα (potato)
+b		b	balOni		μπαλόνι (baloon)
+t		t	tirOpita	τυρόπιττα (cheesepie)
+d		d	dInome		ντύνομαι (get dressed)
+k		k	kalAmi		καλάμι (cane)
+c		c	cerI		κερί (candle)
+g		g	gremIzo		γκρεμίζω (blast) 
+q		gj	aqelIa		αγγελία (announcement)
+
+f		f	fotinO		φωτεινό (luminous)
+v		v	vuLAzo		βουλιάζω (sink)
+T		T	Talassa		θάλασσα (sea)
+D		D	DAskalos	δάσκαλος (teacher)
+s		s	salAta		σαλάτα (salad)
+z		z	zoGraficI	ζωγραφική (paint)
+
+G		G	GAla		γάλα (milk)
+j		jj,j	jortI, vjEno	γιορτή, βγαίνω (celebration, go out)
+
+x		x	xarUmenos	χαρούμενος (happy)
+C		C	CEri		χέρι (hand)
+	
+m		m	mATima		μάθημα (lesson)
+M		mj	apaneMA		απανεμιά (calm)
+
+n		n	nanUrisma	νανούρισμα (lullaby)
+N		nj	NaurIzo		νιαουρίζω (meow)
+V		(-)	aVgaLAzo	αγκαλιάζω (bosom)
+
+r		r	ropI		ροπή (torsion)
+R		r	tRopI		τροπή (turn)
+
+l		l	lAva		λάβα (lava)
+L		lj	LOno		λιώνω (melt)
+
+S		ts	SalakOno	τσαλακώνω (crumple)
+Z		dz	ZamarIa		τζαμαρία (glass)
+X		ks	XirAfi  	ξυράφι (razor) 
+Y		ps	YAri		ψάρι (fish)
+
+[vowels]
+a		a	aEras		αέρας (wind)
+e		e	elpIDa		ελπίδα (hope)
+i		i	irIni		ειρήνη (peace)
+o		o	Oros		όρος (clause)
+u		u	uranOs		ουρανός (sky)
+
+b. Use of the database
+----------------------
+All the combinations of clusters are supported 
+apart from the cases:
+
+1. /M/, /N/, /L/, /C/, /c/, /j/, /q/
+	must be followed by vowel (/a/, /e/, /i/, /o/, /u/)
+	
+2. /r/	must follow a vowel or silence (/a/, /e/, /i/, /o/, /u/, /_/)
+
+3. /R/	must follow a consonant
+
+4. /V/	must be followed by /g/ or /q/
+
+---------------------------------------------------------
+2. Distribution and test
+---------------------------------------------------------
+If you have not copied the MBROLA software yet, please consult
+the MBROLA project homepage (http://tcts.fpms.ac.be/synthesis).
+Refer to the readme.txt file provided with the mbrola software
+for using it. 
+
+This distribution of MBROLA database contains the following files:
+gr2		:the GR2 MBROLA database
+gr2.txt		:this file  
+test\*.pho	:pho examples 
+
+----------------------------------------------------------
+3. Acknowledgments
+----------------------------------------------------------
+The voice of GR2 MBROLA database belongs to Gerasimos Xydas
+(email:gxydas@di.uoa.gr). The database was recorded, 
+segmented and processed by him in the Speech Lab of our department.
+
+We would like to especially thank Baris Bozkurt for his help 
+in building this database and his efforts on the mbrolization 
+of the database.
+
+Dr. George Kouroupetroglou
+University of Athens 
+Department of Informatics 
+Division of Communication and Signal Processing 
+Panepistimiopolis, Ilisia 
+GR-15784 Athens, Greece 
+email:koupe@di.uoa.gr
+tel.:  + 30 1 7275305 
+fax:   + 30 1 6018677

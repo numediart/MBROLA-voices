@@ -1,0 +1,113 @@
+#     # #     #    #
+##   ##  #   #    ##
+# # # #   # #    # #
+#  #  #    #       #
+#     #   # #      #
+#     #  #   #     #
+#     # #     #  #####
+release 0.1 - January 99
+--------------------------------------------------------------
+MX1 - A Mexican Spanish male voice for the MBROLA synthesizer
+
+Created by :  Oregon Graduate Institute of Science & Technology.
+Diphone provided by the Center for Spoken Language Understanding
+(CSLU), USA. The voice was created by Alejandro Barbosa at UDLA,
+Mexico, in collaboration with CSLU
+
+--------------------------------------------------------------
+Table of Contents
+--------------------------------------------------------------
+
+1.0 Description of the MX1 diphone database
+2.0 Installation and tests
+
+--------------------------------------------------------------
+1.0 Description of the MX1 diphone database
+--------------------------------------------------------------
+
+MX1   is a diphone database  for  american english, consisting of 2065
+diphones, male voice.
+
+The following  phoneme  symbols are  assumed in  our diphone  sets. It
+slightly differ  for the SAMPA alphabet since  american english is not
+british english.
+
+SYMBOL  PRONOUNCED LIKE IN
+Phonetic Alphabet
+SAMPA   EXAMPLE         TRANSCRIPTION
+p       padre           "paDre
+b       vino            "bino
+t       tomo            "tomo
+d       donde           "donde
+k       casa            "kasa
+g       gata            "gata
+
+tS      mucho           "mutSo
+jj      hielo           "jjelo
+w       huele           "wele   (NOT sampa definition)
+
+f       fácil           "fasil
+s       sala            "sala
+x       mujer           mu"xer
+
+m       mismo           "mismo
+n       nunca           "nunka
+J       año             "aJo
+
+l       lejos           "lexos
+r       puro            "puro
+rr      torre           "torre
+
+i       pico            "piko
+e       pero            "pero
+a       valle           "baLe
+o       toro            "toro
+u       duro            "duro
+
+dZ john   dZon
+N  tang   taN
+
+_               silence
+
+--------------------------------------------------------------
+2.0 Installation and Tests
+--------------------------------------------------------------
+
+If  you  have  not copied   the MBROLA software   yet,  please consult
+the MBROLA project homepage and get it.
+
+Copy mx1.zip into the mbrola directory and unzip it : 
+
+   unzip mx1.zip (or pkunzip on PC/DOS)
+
+Try 
+
+   mbrola mx1 TEST/example1.pho test.wav
+
+to create a sound file for a short excerpt  of Alice in Wonderland. In
+this   example the  audio  file   follows  the RIFF   Wave format. But
+depending  on the extension test.au,  test.aif, or test.raw other file
+formats can be obtained. Listen to it with your favorite sound editor,
+and try the other command files  (*.pho) to have a  better idea of the
+quality of speech that  can  be synthesized with   MBROLA and the  MX1
+database.
+
+On Unix  systems you can pipe  the audio ouput  to the sound player as
+on a HP : mbrola mx1 phone.pho - | splayer -srate 16000 -l16
+
+Also refer  to the readme.txt file provided  with  the mbrola software
+for using it. 
+
+        
+--------------------------------------------------------------
+Interesting link: http://www.pue.udlap.mx/~sistemas/tlatoa
+
+Contact:
+
+Oregon Graduate Institute of Science & Technology, 
+P.O. Box 91000
+Portland
+Oregon 97291-1000
+USA
+
+email: macon@ece.ogi.edu

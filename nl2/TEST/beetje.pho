@@ -1,0 +1,38 @@
+; BEETJE.PHO
+;
+; Demo for MBROLA with NL1 diphone database for Dutch
+;
+; Created by Arthur Dirksen and Ludmila Menert, Utrecht
+; December 1996
+;
+; Utterance: 		Het is een beetje vreemd, maar wel lekker.
+; Translatation: 	It is a bit odd, but it is nice.
+; Speaking style: 	affected, creaky
+;
+_ 125 95 115 
+t 149 70 94 
+I 46 11 113 37 102 78 71 
+s 93 5 86 39 81 
+@ 49 57 95 
+n 93 13 88 
+b 64 23 80 72 93 98 93 
+e 280 11 81 33 89 39 83 43 89 51 84 57 96 65 91 70 101 75 91 82 108 86 95 92 106 95 95 99 102 
+tj 143 88 89 
+@ 52 2 69 35 84 52 80 62 88 73 82 87 89 96 84 98 91 
+v 171 18 78 
+r 66 47 69 73 81 95 77 
+e 280 32 71 37 66 43 76 48 68 53 75 57 68 63 77 68 71 71 82 79 73 85 82 93 76 98 87 
+m 132 33 95 71 98 
+t 136 6 86 
+_ 529 
+m 29 66 91 
+a 40 95 87 
+R 49 88 94 
+w 67 72 95 96 111 
+E 77 83 118 
+l 140 37 119 55 98 81 87 
+E 86 3 88 70 98 
+k 121 78 50 
+@ 16 
+R 163 
+_ 179 20 20 

@@ -1,0 +1,43 @@
+ES4 a Spanish Male voice
+
+Equalized release
+
+Phonetic Alphabet
+SAMPA	EXAMPLE		TRANSCRIPTION
+p	padre		"paDre
+b	vino		"bino
+t	tomo		"tomo
+d	donde		"donde
+k	casa		"kasa
+g	gata		"gata
+
+tS	mucho		"mutSo
+jj	hielo		"jjelo
+
+f	fácil		"faTil
+T	cinco		"Tinko
+s	sala		"sala
+x	mujer		"muxer
+
+m	mismo		"mismo
+n	nunca		"nunka
+J	año		"aJo
+
+l	lejos		"lexos
+L	caballo	"kabaLo
+r	puro		"puro
+rr	torre		"torre
+
+i	pico		"piko
+e	pero		"pero
+a	valle		"baLe
+o	toro		"toro
+u	duro		"duro
+
+_		silence
+
+Diphone provided by Oliver Vicente Cabeza, Alberto Pérez Martínez,
+César González Ferreras, David Escudero Mancebo, Valentín Cardeñoso Payo
+Departamento de Informática, Universidad de Valladolid
+
+César González Ferreras [cesargf@infor.uva.es]

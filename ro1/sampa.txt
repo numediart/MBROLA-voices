@@ -1,0 +1,54 @@
+Romanian
+
+Note: in the representation of Romanian orthography shown below, 
+
+     ã stands for a-breve; 
+     t, stands for t-cedilla; 
+     s, stands for s-cedilla.
+
+Vowels 
+
+The vowel system comprises 8 phonemes, as follows. The vowel symbolized i_0 is voiceless; 1 is a close (high)
+unrounded central vowel. 
+
+        SAMPA symbol    Orthography             Transcription
+        i               vin                     vin
+        i_0             câini                   k1jni_0
+        e               fel                     fel
+        a               cap                     kap
+        @               mãr                     m@r
+        o               loc                     lok
+        u               sur                     sur
+        1               fân                     f1n
+
+There are 4 semivowels. 
+
+        j               doi                     doj
+        e_X             deasã                   de_Xas@
+        w               sau                     saw
+        o_X             culoare                 kulo_Xare
+
+Consonants 
+
+The consonant system comprises 20 phonemes, as follows. 
+
+        p               pãr                     p@r     
+        b               barbã                   barb@
+        t               tun                     tun
+        d               dar                     dar
+        k               cal                     kal
+        g               gât                     g1t
+        ts              t,arã                   tsar@
+        tS              ceas                    tSas
+        dZ              geantã                  dZant@
+        f               fatã                    fat@
+        v               vale                    vale
+        s               scaun                   skaun
+        z               zi                      zi
+        S               s,a                     Sa                      
+        Z               joi                     Zoj
+        h               hainã                   hajn@
+        m               mânã                    m1n@
+        n               nas                     nas
+        l               lapte                   lapte
+        r               râs                     r1s

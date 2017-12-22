@@ -1,0 +1,23 @@
+; AVOND.PHO
+;
+; Demo for MBROLA with NL1 diphone database for Dutch
+;
+; Created by Arthur Dirksen and Ludmila Menert, Utrecht
+; December 1996
+;
+; Utterance: 		Goeienavond!
+; Translatation: 	Good evening!
+; Speaking style: 	formal/casual
+;
+_ 91 
+G 107 2 204 73 219 88 219 
+u 54 35 192 
+j 46 37 187 
+@ 30 13 142 
+n 70 53 90 
+a 169 1 91 14 84 
+v 85 6 85 
+O 71 27 125 49 108 100 107 
+n 74 100 125 
+t 72 
+_ 186 46 118 

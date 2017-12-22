@@ -1,0 +1,35 @@
+; This file intializes mbrola to work with the SAMPA
+; phonetic alphabet and BR1 diphone database 
+
+; PHONEME   	EXAMPLE		TRANSCRIPTION	SAMPA EQUIVALENT
+; Allophone set not describe in SAMPA
+; s2		casca		"ka s2 ka		---
+; r2		arpa		"a r2 pa		---
+; am		campanha	k am "pa nh a		---
+; oo		bola		"b oo la		---
+
+
+; Set which can be translated in SAMPA
+; j		jato		"jato			Z
+; x		chave		"xave			S
+; nh		galinha		ga"li nh a		J
+; lh		alho		"a lh o			L
+; rr		torre		"to rr e		R
+; @		tamanho		ta "m@ nh o		6	
+; ee		quero		"k ee ro		E
+; em		quente		"k em te		e~
+; im		brinco		"br im ko		i~
+; om		ombro		"om bro			o~
+; um		algum		aw"g um 		u~
+
+;; RENAME j Z
+;; RENAME x S
+;; RENAME nh J
+;; RENAME  lh	L	
+;; RENAME  rr R
+;; RENAME  @	6	
+;; RENAME  ee	E
+;; RENAME  em	e~
+;; RENAME  im i~
+;; RENAME  om o~
+;; RENAME  um u~

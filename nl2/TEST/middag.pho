@@ -1,0 +1,22 @@
+; MIDDAG.PHO
+;
+; Demo for MBROLA with NL1 diphone database for Dutch
+;
+; Created by Arthur Dirksen and Ludmila Menert, Utrecht
+; December 1996
+;
+; Utterance: 		Goeiemiddag!
+; Translatation: 	Good afternoon!
+; Speaking style: 	formal/casual
+;
+_ 91 
+G 107 2 204 73 219 88 219 
+u 54 35 192 
+j 46 37 187 
+@ 30 13 142 
+m 50 
+I 47 6 85 
+d 67 48 86 
+A 133 20 82 60 97 86 108 
+x 192 
+_ 165 4 105 

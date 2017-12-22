@@ -1,0 +1,156 @@
+#     #  ######    #
+ #   #       #    ##
+ #   #      #    # #
+  # #      #       #
+  # #     #        #
+   #     #         #
+   #    #######  #####
+ 
+release 2
+
+--------------------------------------------------------------
+Table of Contents
+--------------------------------------------------------------
+
+1.0 A brief description of the VZ1 database
+2.0 Distribution
+3.0 Installation, and tests
+4.0 Acknowledgments
+
+--------------------------------------------------------------
+1.0 A brief description of VZ1
+--------------------------------------------------------------
+VZ1 2 equalized release is a Venezuelan Spanish diphone database provided in
+the context of the MBROLA project (see http://tcts.fpms.ac.be/synthesis).
+
+It provides a Venezuelan Spanish male voice to be used with the MBROLA program.
+
+Input files use the SAMPA (SAM Phonetic Alphabet) notation, but with some minor changes,as indicated. The following is derived from SAMPA for Spanish.
+
+SAMPA	EXAMPLE
+_	(silence, no signal)
+
+p	Pato
+b	un Beso
+t	Toma
+d	un Dedo
+k	Casa, Kilo, QUeso
+g	un Gato
+
+f	Fosa
+s	Sapo, Zapato, Cesar
+s2	loS
+h	caJa, coGe
+D	abogaDo
+G	aboGado
+B	aBogado
+
+tS	CHico
+
+m	Misa
+n	Nace
+N	caÑa
+
+l	Losa
+r	caReta
+rr	peRRo, Rabia
+L	LLuvia, piYama, HIede
+
+j	fIesta
+w	fUerte
+
+a	casA
+a*	cAsa
+e	vetE
+e*	vEte
+i	gItana
+i*	lIma
+o	tOmate
+o*	tOma
+u	cUbano
+u*	cUba
+
+2.0 Distribution
+--------------------------------------------------------------
+
+This distribution of mbrola contains the following files : 
+
+   Vz1      : the database itself
+   Vz1.txt  : This file
+   license.txt : must read before using the database
+    
+and a TEST directory containing .PHO files. Some of the .PHO
+files are automatically generates, some copy natural prosody.
+
+Additional languages and voices, as well as other example command
+files, are or will be available in the context of the MBROLA 
+project. Please consult the MBROLA project homepage :
+   http://tcts.fpms.ac.be/synthesis
+
+Registered users will automatically be notified of the availability 
+of new databases. To freely register, simply send an email to 
+mbrola-interest-request@tcts.fpms.ac.be with the word 'subscribe'
+in the message title.
+
+--------------------------------------------------------------
+3.0 Installation and Tests
+--------------------------------------------------------------
+
+If you have not copied the MBROLA software yet, please consult
+the MBROLA project homepage and get it.
+
+Copy vz1.zip into the mbrola directory and unzip it : 
+
+   unzip vz1.zip (or pkunzip on PC/DOS)
+   (don't forget to delete the .zip file when this is done)
+
+Try 
+
+   mbrola vz1 TEST/vexample1.pho test.wav
+
+to create a sound file. In this example the audio file follows 
+the RIFF Wav format. But depending on the extension test.au, test.aif, 
+or test.raw you can obtain other file formats. Listen to it with your 
+favorite sound editor, and try other command files (*.pho) to have 
+a better idea of the quality of speech you can synthesize with the 
+MBROLA technique.
+
+On Unix systems you can pipe the audio ouput to the sound player as
+on a HP : mbrola VZ1 test.pho - | splayer -srate 16000 -l16
+
+Also refer to the readme.txt file provided with the mbrola 
+software for using it.
+
+--------------------------------------------------------------
+4.0 Acknowledgements
+--------------------------------------------------------------
+
+We could like to thank Enrique Obediente for the use of his voice.  This database 
+is the product of a joint effort by the Laboratoire de Parole et Langage of the 
+Université de Provence in Aix-en-Provence, France, in the persons of Daniel Hirst, 
+Christian Cavé and Sandrine Clairet, and of the Grupo de Investigación en Ciencias 
+Fonéticas of the Universidad de Los Andes, Mérida, Venezuela in the persons of 
+Elsa Mora and Manuel Rodriguez, and with the financial support of Ecos Nord of 
+France and Conicit in Venezuela. And Boris Bozkurt for his help in preparing the 
+database.
+
+--------------------------------------------------------------
+
+Manuel Rodriguez Hourcadette (hourcade@ula.ve)
+
+e-mail:hourcade@ula.ve, for questions concerning the 
+database vz1.
+
+Grupo de Ciencias Fonéticas
+Laboratorio de Fonética
+Facultad de Humanidades
+Universidad de Los Andes
+Mérida
+VENEZUELA
+
+http://www.ing.ula.ve/~hourcade/fonetica/  	Tel.: (+58) (274) 2403815
+EMail: hourcade@ula.ve 					Fax: (+58) (274) 2402980
+
+e-mail: mbrola@tcts.fpms.ac.be, for general information, 
+questions on the installation of software and databases.
+

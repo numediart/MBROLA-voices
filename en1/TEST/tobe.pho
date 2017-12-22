@@ -1,0 +1,35 @@
+; Mbrola demo file for en1.
+; Copyright (c) 1997 Faculte Polytechnique de Mons
+;
+; "To be or not to be, that is the question."
+;
+;                     - famous mbrola words
+_  210
+t  40
+U  55 0 173 75 173
+b  80 10 160
+i: 198 5 173 75 235
+Q  63 25 137
+r  33 10 121
+n  138 15 121 75 114
+Q  131 25 114 55 129
+t  80
+t  60
+U  50 60 181 80 166
+b  80 25 137 65 125
+i: 230 30 129 70 117
+_  250
+D 70
+{  100 15 160 35 153
+t  130
+s  80 25 111
+D 50
+@  50 40 111 80 105
+k  60
+w  50
+e  80 25 105 65 102
+s 70
+tS  70
+@  60
+n  90
+_  270 95 102 100 133 

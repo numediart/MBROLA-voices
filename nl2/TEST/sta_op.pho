@@ -1,0 +1,46 @@
+; STA_OP.PHO
+;
+; Demo for MBROLA with NL1 diphone database for Dutch
+;
+; Created by Arthur Dirksen and Ludmila Menert, Utrecht
+; December 1996
+;
+; Utterance: 		Sta je nou godverdomme nog's 'n keer op?
+; Translatation: 	Will you get up at once, god damn!
+; Speaking style: 	angry (sounds best at high volume!)
+;
+; The following is a guess at the new volume/amplitude control of MBROLA
+; V=3
+; A=3
+;
+_ 168 95 115 
+s 75 
+t 49 71 196 
+a 74 
+j 44 5 195 
+@ 42 100 203 
+n 44 89 196 
+Au 60 23 178 75 177 
+G 199 
+O 64 22 245 73 262 98 267 
+t 45 31 266 
+f 129 
+@ 39 15 229 90 198 
+R 45 27 197 69 177 
+d 27 7 93 59 183 
+O 82 51 183 
+m 41 
+@ 49 35 157 
+n 54 
+O 50 50 155 
+x 55 18 146 80 145 
+@ 17 
+s 77 25 146 
+@ 40 
+N 31 10 135 58 139 
+k 109 
+I: 121 20 140 
+R 132 9 109 37 110 63 89 86 117 
+O 98 18 119 50 131 
+p 213 15 186 
+_ 163 22 143 
