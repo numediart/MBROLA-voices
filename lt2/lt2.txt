@@ -17,44 +17,44 @@ Long unstressed vowels are denoted with a double small letter, e.g. "aa".
 Long vowels stressed with falling accent are denoted with two letters, e.g. "Aa".
 Long vowels stressed with rising accent are denoted with two letters, e.g. "aA".
 Long vowel /e/ is denoted with two letters "ea".
-Long vowel /ë/ is denoted with two letters "ee".
+Long vowel /Ä—/ is denoted with two letters "ee".
 
 Phoneme Examples         Transcription                English translation
 
 i       ikona            i k o n A                          icon 
 e       elektra          e l' e k t r A                     electricity
-a       ağis             a S' I s                           axis
+a       aÅ¡is             a S' I s                           axis
 o       opozicija        o p o z' I ts' i j' a              opposition
 u       ugnis            u g' n' I s                        fire
-I       işdas            I Z d a s                          treasury
-E       testas; kiaulë   t' E s t a s; k E W l' ee          test; pig
-A       ağ; laikas       A S; l A J k a s                   I; time
+I       iÅ¾das            I Z d a s                          treasury
+E       testas; kiaulÄ—   t' E s t a s; k E W l' ee          test; pig
+A       aÅ¡; laikas       A S; l A J k a s                   I; time
 O       opera            O p' e r a                         opera
-U       upë; zuikis      U p' ee; z U J k' i s              river; hare
+U       upÄ—; zuikis      U p' ee; z U J k' i s              river; hare
 ii      pyragas          p ii r aA g a s                    pie
-Ii      átampa           Ii t a m p a                       voltage
+Ii      Ä¯tampa           Ii t a m p a                       voltage
 iI      dydis            d' iI d' i s                       size
 ie      diena            d' ie n A                          day
 Ie      pienas           p' Ie n a s                        milk
 iE      dievas           d' iE v a s                        god
-ee      mësa             m' ee s A                          meat
-Ee      mëta             m' Ee t a                          mint
-eE      tëtis            t' eE t' i s                       dad
-ea      læğiukas         l' ea S' U k a s                   crystalline lens
-Ea      spræsti; elnias  s' p' r' Ea s' t' i; Ea l' n' e s  to solve; deer
-eA      eşeras           eA Z' e r a s                      lake
-aa      şàsis            Z aa s' I s                        goose
-Aa      àşuolas, amşius  Aa Z uo l a s, Aa m' Z' u s        oak, century
+ee      mÄ—sa             m' ee s A                          meat
+Ee      mÄ—ta             m' Ee t a                          mint
+eE      tÄ—tis            t' eE t' i s                       dad
+ea      lÄ™Å¡iukas         l' ea S' U k a s                   crystalline lens
+Ea      sprÄ™sti; elnias  s' p' r' Ea s' t' i; Ea l' n' e s  to solve; deer
+eA      eÅ¾eras           eA Z' e r a s                      lake
+aa      Å¾Ä…sis            Z aa s' I s                        goose
+Aa      Ä…Å¾uolas, amÅ¾ius  Aa Z uo l a s, Aa m' Z' u s        oak, century
 aA      asilas           aA s' i l a s                      donkey
 oo      oda              oo d A                             skin
 Oo      oras             Oo r a s                           air
 oO      sodas            s oO d a s                         garden
 uo      uola             uo l A                             rock
 Uo      uoga             Uo g a                             berry
-uO      ğuo              S uO                               dog
-uu      ûmëdë            uu m' ee d' eE                     russule
-Uu      grûdas           g r Uu d a s                       corn
-uU      ûsas             uU s a s                           moustache
+uO      Å¡uo              S uO                               dog
+uu      Å«mÄ—dÄ—            uu m' ee d' eE                     russule
+Uu      grÅ«das           g r Uu d a s                       corn
+uU      Å«sas             uU s a s                           moustache
 --------------------------------------------------------------------------------
 
 Consonants
@@ -83,43 +83,43 @@ g       galas            g aA l a s                         end
 g'      genys            g' e n' iI s                       woodpecker
 ts      cukrus           ts U k r u s                       sugar
 ts'     centas           ts' E N t a s                      cent
-dz      dzûkai           dz uU k a j                        Dzukai
+dz      dzÅ«kai           dz uU k a j                        Dzukai
 dz'     dziudo           dz' u d O                          judo
-tS      èardağas         tS Aa r d a S a s                  czardas
-tS'     èekis            tS' E k' i s                       check
-dZ      dşaulis          dZ Aa w l' i s                     joule
-dZ'     dşiazas          dZ' eA z a s                       jazz
+tS      ÄardaÅ¡as         tS Aa r d a S a s                  czardas
+tS'     Äekis            tS' E k' i s                       check
+dZ      dÅ¾aulis          dZ Aa w l' i s                     joule
+dZ'     dÅ¾iazas          dZ' eA z a s                       jazz
 s       sala             s a l A                            island
 s'      sesuo            s' e s uO                          sister
 z       zona             z o n A                            zone
 z'      zebras           z' E b r a s                       zebra
-S       ğalmas           S A L m a s                        helmet
-S'      ğiaurë           S' E W r' ee                       north
-Z       şalias           Z aA l' e s                        green
-Z'      şiogas           Z' Oo g a s                        grasshopper
+S       Å¡almas           S A L m a s                        helmet
+S'      Å¡iaurÄ—           S' E W r' ee                       north
+Z       Å¾alias           Z aA l' e s                        green
+Z'      Å¾iogas           Z' Oo g a s                        grasshopper
 x       chaosas          x a O s a s                        chaos
 x'      chemija          x' E m' i j' e                     chemistry
 h       haremas          h a r' E m a s                     harem
 h'      hercas           h' E R ts a s                      Hertz
 f       fonas            f O n a s                          background
-f'      figûra           f' i g uu r A                      figure
+f'      figÅ«ra           f' i g uu r A                      figure
 j'      jardas; jis      j' Ea r d a s; j' i s              yard; he
 j       daina            d a j n a                          song
 J       laikas           l A J k a s                        time
 v       vardas           v A R d a s                        name
 v'      vilkas           v I L k a s                        wolf
 w       auka             a w k A                            victim
-W       aukğtis          A W k' S' t' i s                   height
+W       aukÅ¡tis          A W k' S' t' i s                   height
 l       lapas; galva     l aA p a s; g a l v A              leaf; head
-l'      ledas; ğaltinis  l' eA d a s; S a l' t' I n' i s    ice; spring
+l'      ledas; Å¡altinis  l' eA d a s; S a l' t' I n' i s    ice; spring
 L       kulnas           k U L n a s                        heel
 L'      ilgis            I L' g' i s                        length
 r       ragas; barzda    r aA g a s; b a r z d A            horn; beard
-r'      riba; varlë      r' i b A; v a r' l' eE             limit; frog
+r'      riba; varlÄ—      r' i b A; v a r' l' eE             limit; frog
 R       vartai           v A R t a j                        gate
-R'      karğtis          k A R' S' t' i s                   heat
+R'      karÅ¡tis          k A R' S' t' i s                   heat
 m       matas; gamta     m aA t a s; g a m t A              measure; nature
-m'      mylia; kempinë   m ii l' E; k' e m' p' I n' ee      mile; sponge
+m'      mylia; kempinÄ—   m ii l' E; k' e m' p' I n' ee      mile; sponge
 M       kampas           k A M p a s                        angle
 M'      vamzdis          v A M' z' d' i s                   pipe
 n       nagas; banga     n aA g a s; b a n g A              nail; wave
