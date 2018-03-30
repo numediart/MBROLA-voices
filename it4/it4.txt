@@ -49,13 +49,13 @@ o	polsino		p o l s i1 n o
 O	norditalia	n O r d i t a1 l i a
 u	puntale		p u n t a1 l e 
 
-i1      così            k o s i1
-e1      mercé           m e r tS e1     
-E1      caffè           k a f f E1      
-a1      bontà           b o n t a1   
+i1      cosÃ¬            k o s i1
+e1      mercÃ©           m e r tS e1     
+E1      caffÃ¨           k a f f E1      
+a1      bontÃ            b o n t a1   
 o1	Roma		r o1 m a
-O1      però            p e r O1        
-u1      più             p j u1  
+O1      perÃ²            p e r O1        
+u1      piÃ¹             p j u1  
 
 j	piume		p j u1 m e
 w	quando		k w a1 n d o

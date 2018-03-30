@@ -27,51 +27,51 @@ http://tcts.fpms.ac.be/synthesis).
 It provides a Hungarian female voice to be used with the MBROLA program.
 
 Input files use the SAMPA (SAM Phonetic Alphabet) notation as
-recommended by the EEC-SAM Project, (http://www.phon.ucl.ac.uk/home/sampa/hung-uni.htm) but with some minor changes,as indicated. The following is derived from SAMPA for Spanish (J.C.Wells, UCL,London and Kl·ra Vicsi, vicsi@ttt-202.ttt.bme.hu).
+recommended by the EEC-SAM Project, (http://www.phon.ucl.ac.uk/home/sampa/hung-uni.htm) but with some minor changes,as indicated. The following is derived from SAMPA for Spanish (J.C.Wells, UCL,London and Kl√°ra Vicsi, vicsi@ttt-202.ttt.bme.hu).
 
 SAMPA	EXAMPLE		TRANSCRIPTION
    i		hit			 hit
-	i:		szÌt			 si:t
+	i:		sz√≠t			 si:t
 	E		vet			 vEt
-	e:		mÈz			 me:z
+	e:		m√©z			 me:z
 	O 		hat			 hOt
-	a:		l·b			 la:b
+	a:		l√°b			 la:b
 	o		sok			 Sok
-	o:		pÛk			 po:k
-	2		kˆt			 k2t
-	2:		sıt 			 S2:t
+	o:		p√≥k			 po:k
+	2		k√∂t			 k2t
+	2:		s√µt 			 S2:t
 	u		fut			 fut
-	u:		k˙t			 ku:t
-	y		s¸t			 Syt
-	y:		f˚t 			 fy:t
+	u:		k√∫t			 ku:t
+	y		s√ºt			 Syt
+	y:		f√ªt 			 fy:t
 
 
-   p		P·l			 pa:l
-	b		b·l			 ba:l
-	t		t·r			 ta:r
-	d		d·n			 da:n
-	t'		ty˙k			 t'u:k
-	d'		gy·r			 d'a:r
-	k		k·d			 ka:d
-	g		g·t			 ga:t
-	ts		cÈl			 tse:l
+   p		P√°l			 pa:l
+	b		b√°l			 ba:l
+	t		t√°r			 ta:r
+	d		d√°n			 da:n
+	t'		ty√∫k			 t'u:k
+	d'		gy√°r			 d'a:r
+	k		k√°d			 ka:d
+	g		g√°t			 ga:t
+	ts		c√©l			 tse:l
 	dz		bodza			 bodza
-	tS		csı 			 tS2:
+	tS		cs√µ 			 tS2:
 	dZ		dzsem			 dZEm
-	f		f·t			 fa:t
-	v		v·d			 va:d
-	s		szÈp			 se:p
-	z		z·r			 za:r
-	S		sÛ			    So:
-	Z		zsÌr			 Zi:r
-	m		m·r			 ma:r
-	n		n·d			 na:d
+	f		f√°t			 fa:t
+	v		v√°d			 va:d
+	s		sz√©p			 se:p
+	z		z√°r			 za:r
+	S		s√≥			    So:
+	Z		zs√≠r			 Zi:r
+	m		m√°r			 ma:r
+	n		n√°d			 na:d
 	J		nyom			 Jom
-	r		r·k			 ra:k
-	l		l·p			 la:p
-	j		jˆn, lyuk	 j2n, juk
-	h		h·t			 ha:t
-	x		ach·t			 Oxa:t
+	r		r√°k			 ra:k
+	l		l√°p			 la:p
+	j		j√∂n, lyuk	 j2n, juk
+	h		h√°t			 ha:t
+	x		ach√°t			 Oxa:t
 	
 _		silence	
 
@@ -90,12 +90,12 @@ for the phoneme /j/:
 	x'		kapj			   kOpx'
 
 for the phonemes /m, n/
-	F		k·mfor			ka:Ffor
+	F		k√°mfor			ka:Ffor
 			hamvas			hOFvOS
-			honv·gy			hoFva:d'
-			honfit·rs		hoFfita:rS
+			honv√°gy			hoFva:d'
+			honfit√°rs		hoFfita:rS
 	N		ing			   iNg
-			tˆnk			   t2Nk
+			t√∂nk			   t2Nk
 
 
 --------------------------------------------------------------

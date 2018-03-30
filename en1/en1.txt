@@ -118,7 +118,7 @@ provided in the context of the MBROLA project :
 
    http://tcts.fpms.ac.be/synthesis/mbrola.html
 
-It  provides a British English male voice (known as "Roger∆s
+It  provides a British English male voice (known as "Roger√Üs
 voice")  to  be used with the MBROLA program.  It  has  been
 built  from  the original Roger diphones made  available  by
 CSTR, University of Edinburgh, as part of their generic text-
@@ -130,7 +130,7 @@ Input  files use the SAMPA phonetic notation, as adopted  in
 other  MBROLA  databases. Below is a  list  of  the  English
 speech  sounds it accounts for, with examples. We also  give
 the  correspondence with the MRPA phonetic notation used  in
-the  original distribution of Roger∆s voice in the  FESTIVAL
+the  original distribution of Roger√Üs voice in the  FESTIVAL
 TTS system.
 
                    MRPA    SAMPA   Example

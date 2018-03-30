@@ -43,14 +43,14 @@ tS	mucho		"mutSo
 jj	hielo		"jjelo
 w	huele		"wele	(NOT sampa definition)
 
-f	f·cil		"faTil
+f	f√°cil		"faTil
 T	cinco		"Tinko
 s	sala		"sala
 x	mujer		mu"xer
 
 m	mismo		"mismo
 n	nunca		"nunka
-J	aÒo		"aJo
+J	a√±o		"aJo
 
 l	lejos		"lexos
 L	caballo		ka"baLo	

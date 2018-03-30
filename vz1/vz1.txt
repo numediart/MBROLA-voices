@@ -49,7 +49,7 @@ tS	CHico
 
 m	Misa
 n	Nace
-N	ca—a
+N	ca√ëa
 
 l	Losa
 r	caReta
@@ -127,9 +127,9 @@ software for using it.
 
 We could like to thank Enrique Obediente for the use of his voice.  This database 
 is the product of a joint effort by the Laboratoire de Parole et Langage of the 
-UniversitÈ de Provence in Aix-en-Provence, France, in the persons of Daniel Hirst, 
-Christian CavÈ and Sandrine Clairet, and of the Grupo de InvestigaciÛn en Ciencias 
-FonÈticas of the Universidad de Los Andes, MÈrida, Venezuela in the persons of 
+Universit√© de Provence in Aix-en-Provence, France, in the persons of Daniel Hirst, 
+Christian Cav√© and Sandrine Clairet, and of the Grupo de Investigaci√≥n en Ciencias 
+Fon√©ticas of the Universidad de Los Andes, M√©rida, Venezuela in the persons of 
 Elsa Mora and Manuel Rodriguez, and with the financial support of Ecos Nord of 
 France and Conicit in Venezuela. And Boris Bozkurt for his help in preparing the 
 database.
@@ -141,11 +141,11 @@ Manuel Rodriguez Hourcadette (hourcade@ula.ve)
 e-mail:hourcade@ula.ve, for questions concerning the 
 database vz1.
 
-Grupo de Ciencias FonÈticas
-Laboratorio de FonÈtica
+Grupo de Ciencias Fon√©ticas
+Laboratorio de Fon√©tica
 Facultad de Humanidades
 Universidad de Los Andes
-MÈrida
+M√©rida
 VENEZUELA
 
 http://www.ing.ula.ve/~hourcade/fonetica/  	Tel.: (+58) (274) 2403815

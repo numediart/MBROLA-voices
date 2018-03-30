@@ -45,10 +45,10 @@ Fricatives
 
   f   falo    "falu
   v   verde   "verd@
-  s   céu    sEw
+  s   cÃ©u    sEw
   z   casa    "kaz6
-  S   chapéu   S6"pEw
-  Z   jóia    "ZOj6
+  S   chapÃ©u   S6"pEw
+  Z   jÃ³ia    "ZOj6
 
 Nasals 
 
@@ -76,14 +76,14 @@ Vowels and diphthongs
 
   i~  fim    fi~ 
   e~  emprego  e~"pregu 
-  6~  irmã    ir"m6~
+  6~  irmÃ£    ir"m6~
   o~  bom    bo~
   u~  um  u~
 
   w   mau    maw 
-  j   mais   (majS)  dei (dEj)  mui (muj) pei (pej) boi (bOj)  bóia (boj6)
+  j   mais   (majS)  dei (dEj)  mui (muj) pei (pej) boi (bOj)  bÃ³ia (boj6)
 
-  6~j~    têm    t6~j~
+  6~j~    tÃªm    t6~j~
 
 --------------------------------------------------------------
 2.0 Installation and Tests

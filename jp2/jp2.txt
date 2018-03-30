@@ -15,8 +15,8 @@ JP2 - A Japanese female voice for the MBROLA synthesizer
 
 Created by: 
 Tomohisa Tachiki
-Institut für Phonetik
-Johann Wolfgang Goethe-Universität Frankfurt am Main
+Institut fÃ¼r Phonetik
+Johann Wolfgang Goethe-UniversitÃ¤t Frankfurt am Main
 --------------------------------------------------------------
 Table of Contents
 --------------------------------------------------------------
@@ -41,7 +41,7 @@ t       tai mato
 k       kubi hanko
 
 b       bachi kibun
-d       daikan handô
+d       daikan handÃ´
 g       garakuta kago
 
 f       fune saifu
@@ -57,7 +57,7 @@ Z       aji kujaku
 ts      tsukue atsui
 tS      chikara ocha
 
-dz      dzukô dzaru 
+dz      dzukÃ´ dzaru 
 dZ      jishin jaguchi
 
 m	maru mimi
@@ -86,11 +86,11 @@ i	ishi michi
 u_0	kusuri (voiceless)
 i_0	shiki (voiceless)
 
-a:	râmen mâchi (long)
-e:	keiken (= kêken) mêdê (long)
-o:	kôkô môtâ (long)
-u:	kûki sûgaku (long)
-i:	oniisan (= onîsan) chîzu (long)		 	
+a:	rÃ¢men mÃ¢chi (long)
+e:	keiken (= kÃªken) mÃªdÃª (long)
+o:	kÃ´kÃ´ mÃ´tÃ¢ (long)
+u:	kÃ»ki sÃ»gaku (long)
+i:	oniisan (= onÃ®san) chÃ®zu (long)		 	
 
 --------------------------------------------------------------
 2.0 Installation and Tests
@@ -107,7 +107,7 @@ Try
 
    Mbrola jp2 TEST/oha.pho oha.wav 
 
-to create  a sound file for the sentence 'ohayô gozaimasu. anshôbangô o dôzo'. In this example the audio file follows the RIFF Wav format. But depending on the extension oha.au, oha.aif, or  oha.raw you can obtain other file formats. Listen  to it with your favorite sound editor, and try the other command files (*.pho) to have a better idea of the quality of speech you can synthesize with the MBROLA technique. 
+to create  a sound file for the sentence 'ohayÃ´ gozaimasu. anshÃ´bangÃ´ o dÃ´zo'. In this example the audio file follows the RIFF Wav format. But depending on the extension oha.au, oha.aif, or  oha.raw you can obtain other file formats. Listen  to it with your favorite sound editor, and try the other command files (*.pho) to have a better idea of the quality of speech you can synthesize with the MBROLA technique. 
 
 On Unix systems you can pipe the audio ouput to the sound player as on a HP: mbrola jp2 oha.pho - | splayer -srate 16000 -l16
 

@@ -14,14 +14,14 @@ g	gata		"gata
 tS	mucho		"mutSo
 jj	hielo		"jjelo
 
-f	f·cil		"faTil
+f	f√°cil		"faTil
 T	cinco		"Tinko
 s	sala		"sala
 x	mujer		"muxer
 
 m	mismo		"mismo
 n	nunca		"nunka
-J	aÒo		"aJo
+J	a√±o		"aJo
 
 l	lejos		"lexos
 L	caballo	"kabaLo
@@ -36,8 +36,8 @@ u	duro		"duro
 
 _		silence
 
-Diphone provided by Oliver Vicente Cabeza, Alberto PÈrez MartÌnez,
-CÈsar Gonz·lez Ferreras, David Escudero Mancebo, ValentÌn CardeÒoso Payo
-Departamento de Inform·tica, Universidad de Valladolid
+Diphone provided by Oliver Vicente Cabeza, Alberto P√©rez Mart√≠nez,
+C√©sar Gonz√°lez Ferreras, David Escudero Mancebo, Valent√≠n Carde√±oso Payo
+Departamento de Inform√°tica, Universidad de Valladolid
 
-CÈsar Gonz·lez Ferreras [cesargf@infor.uva.es]
+C√©sar Gonz√°lez Ferreras [cesargf@infor.uva.es]

@@ -29,17 +29,17 @@ Vowels:
         a               Satz            zats
         O               Trotz           trOts
         U               Schutz          SUts
-        Y               hübsch          hYpS
-        9               plötzlich       pl9tslIC
+        Y               hÃ¼bsch          hYpS
+        9               plÃ¶tzlich       pl9tslIC
 
         i:              Lied            li:t
         e:              Beet            be:t
-        E:              spät            SpE:t
+        E:              spÃ¤t            SpE:t
         a:              Tat             ta:t
         o:              rot             ro:t
         u:              Blut            blu:t
-        y:              süß             zy:s
-        2:              blöd            bl2:t
+        y:              sÃ¼ÃŸ             zy:s
+        2:              blÃ¶d            bl2:t
 
         aI              Eis             aIs
         aU              Haus            haUs

@@ -20,47 +20,47 @@ voice. The following phoneme symbols are assumed in our diphone sets.
 
 caron (hacek, wedge)
 In the representation of Czech orthography shown below c^, e^, n^, r^, s^,
-z^ stand for c, e, n, r, s, z with a wedge accent (caron, hác^ek), and u@ stands 
+z^ stand for c, e, n, r, s, z with a wedge accent (caron, hÃ¡c^ek), and u@ stands 
 for u with a ring (krouz^ek) above
 
 PHONEME	IN WORD         IN WORD ISO LATIN2                              
 a	ar	        ar	                              
-a:	pád             pád                              
+a:	pÃ¡d             pÃ¡d                              
 b	brok            brok                              
 ts	cit             cit                              
-tS	c^ást		èást
-d	du@l            dùl                              
+tS	c^Ã¡st		Ã¨Ã¡st
+d	du@l            dÃ¹l                              
 dz	podzim		podzim
-dZ	dz^em		d¾em
-d'	díl             díl                              
+dZ	dz^em		dÂ¾em
+d'	dÃ­l             dÃ­l                              
 e	med             med                              
-e:	mé              mé                              
+e:	mÃ©              mÃ©                              
 f	foukat, domov   foukat, domov                              
 g	grafika         grafika                              
-h\	hu@l            hùl                              
+h\	hu@l            hÃ¹l                              
 i	idol            idol                              
-i:	mír             mír                              
+i:	mÃ­r             mÃ­r                              
 j	jak             jak                              
-k	ku@r            kùr                              
+k	ku@r            kÃ¹r                              
 l	lid             lid                              
-m	mír             mír                              
-n	nu@z^           nù¾                              
+m	mÃ­r             mÃ­r                              
+n	nu@z^           nÃ¹Â¾                              
 n'	nic             nic                              
 o	oko             oko                              
-o:	óda             óda                              
+o:	Ã³da             Ã³da                              
 p	pak             pak                              
 r	rak             rak                              
-r'	R^ek, tr^i      Øek, tøi                              
-s	sál             sál                              
-S	s^ál            ¹ál                              
+r'	R^ek, tr^i      Ã˜ek, tÃ¸i                              
+s	sÃ¡l             sÃ¡l                              
+S	s^Ã¡l            Â¹Ã¡l                              
 t	to              to                              
 t'	ti              ti                              
 u	ucho            ucho                              
-u:	ústa            ústa                              
+u:	Ãºsta            Ãºsta                              
 v	val             val                              
 x	chval           chval                              
 z	zip             zip                              
-Z	z^ák            ¾ák                              
+Z	z^Ã¡k            Â¾Ã¡k                              
 
 This database contains all possible diphones (square matrix).
 

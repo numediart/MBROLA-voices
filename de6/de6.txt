@@ -60,17 +60,17 @@ Vowels:
 	a		Satz		zats
 	O		Trotz		trOts
 	U		Schutz		SUts
-	Y		hübsch		hYpS
-	9		plötzlich	pl9tslIC
+	Y		hÃ¼bsch		hYpS
+	9		plÃ¶tzlich	pl9tslIC
 
 	i:		Lied		li:t
 	e:		Beet		be:t
-	E:		spät		SpE:t
+	E:		spÃ¤t		SpE:t
 	a:		Tat		ta:t
 	o:		rot		ro:t
 	u:		Blut		blu:t
-	y:		süß		zy:s
-	2:		blöd		bl2:t
+	y:		sÃ¼ÃŸ		zy:s
+	2:		blÃ¶d		bl2:t
 
 	aI		Eis		aIs
 	aU		Haus		haUs
@@ -205,6 +205,6 @@ German accent.
 
 This diphone database was recorded jointly by the Institute of Phonetics at
 Saarland University and by the Language Technology Department at DFKI,
-Saarbrücken.
+SaarbrÃ¼cken.
 
-For any enquiries, contact Marc Schröder, schroed@dfki.de.
+For any enquiries, contact Marc SchrÃ¶der, schroed@dfki.de.

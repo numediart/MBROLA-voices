@@ -4,7 +4,7 @@
 / /___ / ___ | / /
 \____//_/  |_|/_/
 
-U N E    V O IX    Q U É B É C O I S E
+U N E    V O IX    Q U Ã‰ B Ã‰ C O I S E
          M A S C U L I N E
 
 A   q u e b e c   f r e n c h
@@ -13,31 +13,31 @@ A   q u e b e c   f r e n c h
                                          Version 1.00
 
 
-  1.   P r é s e n t a t i o n
+  1.   P r Ã© s e n t a t i o n
 =====================================================
 
-Cette base de données de diphones CA1 est distribuée
-dans le cadre du projet MBROLA. La fréquence fondamen-
-tale de cette voix est de 80 Hz et sa fréquence
-d'échantillonnage est de 16 000 Hz.
+Cette base de donnÃ©es de diphones CA1 est distribuÃ©e
+dans le cadre du projet MBROLA. La frÃ©quence fondamen-
+tale de cette voix est de 80 Hz et sa frÃ©quence
+d'Ã©chantillonnage est de 16 000 Hz.
 
-Voici la liste des phonèmes pris en compte au sein de
+Voici la liste des phonÃ¨mes pris en compte au sein de
 cette base de diphones :
 
 SAMPA	EXEMPLES
 i	idiot, ami
-I	île, petite
-e	ému, été
+I	Ã®le, petite
+e	Ã©mu, Ã©tÃ©
 E	perdu, maison
-3	être, fête, épaisse
+3	Ãªtre, fÃªte, Ã©paisse
 a	alarme, patte
-A	pâte, rempart
+A	pÃ¢te, rempart
 O	obstacle, corps
 o	auditeur, beau
 u	coupable, loup
 U	houle, poutre
-y	punir, élu
-Y	flûte, ultime
+y	punir, Ã©lu
+Y	flÃ»te, ultime
 2	creuser, deux
 9	malheureux, peur
 @	petite, fortement
@@ -52,23 +52,23 @@ w	voix, fouine
 H	huile, nuage
 
 p	patte, repas, cap
-t	tête, poutine
-k	carte, écaille, bec
+t	tÃªte, poutine
+k	carte, Ã©caille, bec
 
-b	bête, habile, robe
+b	bÃªte, habile, robe
 d	dire, rondeur, blonde
-g	gauche, égal, bague
+g	gauche, Ã©gal, bague
 
 f	feu, affiche, chef
 s	soeur, assez, passe
 S	chanter, machine, poche
 
-v	vent, inventer, rêve
-z	zéro, raisonner, rose
-Z	jardin, manger, piège
+v	vent, inventer, rÃªve
+z	zÃ©ro, raisonner, rose
+Z	jardin, manger, piÃ¨ge
 
-l	long, élire, bal
-R	rond, érable, sentir
+l	long, Ã©lire, bal
+R	rond, Ã©rable, sentir
 L	ballroom
 r	Ford, rave
 
@@ -83,25 +83,25 @@ _	(silence marker)
   2.   R e s t r i c t i o n s
 =====================================================
 
-Cette base de diphones est encore en développement et
-souffre de quelques limitations. N'hésitez pas à informer
-les auteurs des bogues rencontrés.
+Cette base de diphones est encore en dÃ©veloppement et
+souffre de quelques limitations. N'hÃ©sitez pas Ã  informer
+les auteurs des bogues rencontrÃ©s.
 
-- Suite à quelques problèmes lors de la transcription,
-le phonème /E/ doit, pour l'instant, être transcrit
-/3/ pour être interprété par le synthétiseur. Afin
-d'adapter des fichiers PHO pré-existants, utilisez
-l'outil de substitution de phonèmes du logiciel MBROLI,
-en remplaçant les occurrences de /E/ par /3/.
+- Suite Ã  quelques problÃ¨mes lors de la transcription,
+le phonÃ¨me /E/ doit, pour l'instant, Ãªtre transcrit
+/3/ pour Ãªtre interprÃ©tÃ© par le synthÃ©tiseur. Afin
+d'adapter des fichiers PHO prÃ©-existants, utilisez
+l'outil de substitution de phonÃ¨mes du logiciel MBROLI,
+en remplaÃ§ant les occurrences de /E/ par /3/.
 
-- Les réalisations du phonème /R/, de par leur instabi-
-lité spectrale présentent des clicks audibles.
+- Les rÃ©alisations du phonÃ¨me /R/, de par leur instabi-
+litÃ© spectrale prÃ©sentent des clicks audibles.
 
-- Les phonèmes anglais /r/ et /L/ sont intégrés à titre
-expérimental.
+- Les phonÃ¨mes anglais /r/ et /L/ sont intÃ©grÃ©s Ã  titre
+expÃ©rimental.
 
 - Les diphones suivants sont absents ou de mauvaise
-qualité :
+qualitÃ© :
    t+z
    y+f
 
@@ -111,34 +111,34 @@ qualité :
 
 Cette distribution inclut les fichiers suivants :
 
-  ca1          la base de données de diphones
+  ca1          la base de donnÃ©es de diphones
   licence.txt  licence d'utilisation & de distribution
-  fr1.txt      ce présent fichier
+  fr1.txt      ce prÃ©sent fichier
 
 ainsi que trois exemples de fichiers .PHO :
 
-  merci.pho    Le Québec a une voix...
+  merci.pho    Le QuÃ©bec a une voix...
   ginette.pho  Beau Dommage...
   bottine.pho  Un classique de la Bottine Souriante
 
 
-Des voix et langues supplémentaires sont disponibles
+Des voix et langues supplÃ©mentaires sont disponibles
 dans le cadre du projet MBROLA. Pour de plus amples
-informations, consultez le site du projet MBROLA, à
+informations, consultez le site du projet MBROLA, Ã 
 l'adresse suivante :
 
   http://tcts.fpms.ac.be/synthesis
 
-Les utisateurs répertoriés recevront automatiquement
-les dernières nouvelles du projet MBROLA. Pour
+Les utisateurs rÃ©pertoriÃ©s recevront automatiquement
+les derniÃ¨res nouvelles du projet MBROLA. Pour
 s'enregistrer gratuitement, envoyez simplement un
 courriel, en indiquant le mot 'subscribe' dans
-l'entête du message, à :
+l'entÃªte du message, Ã  :
 
   mbrola-interest-request@tcts.fpms.ac.be
 
 Pour des informations ou des questions concernant
-l'installation du logiciel et des bases de données,
+l'installation du logiciel et des bases de donnÃ©es,
 contactez :
 
   mbrola@tcts.fpms.ac.be
@@ -147,24 +147,24 @@ contactez :
 >>  4.   R e m e r c i e m e n t s
 =====================================================
 
-Nous tenons à remercier très sincèrement Frédéric BRAULT,
-qui a accepté de prêter sa voix pendant quelques jours à
-cette entreprise. Sans toi, rien n'aurait été possible...
+Nous tenons Ã  remercier trÃ¨s sincÃ¨rement FrÃ©dÃ©ric BRAULT,
+qui a acceptÃ© de prÃªter sa voix pendant quelques jours Ã 
+cette entreprise. Sans toi, rien n'aurait Ã©tÃ© possible...
 
-Nos remerciements s'adressent également au Professeur
-Pierre MARTIN de l'Université LAVAL (Québec) pour nous
+Nos remerciements s'adressent Ã©galement au Professeur
+Pierre MARTIN de l'UniversitÃ© LAVAL (QuÃ©bec) pour nous
 avoir si gentiment ouvert la porte de son laboratoire
-et nous avoir prêté son matériel d'enregistrement.
+et nous avoir prÃªtÃ© son matÃ©riel d'enregistrement.
 
-Nous tenons également à remercier la famille SMITH
-d'héberger gratuitement ce site web sur leur serveur
+Nous tenons Ã©galement Ã  remercier la famille SMITH
+d'hÃ©berger gratuitement ce site web sur leur serveur
 web [www.smithware.ca].
 
-Cette base de données de diphones a été réalisé par
-Vincent ARNAUD, Lucie MÉNARD et Johanna-Pascale ROY.
-Si vous souhaitez des informations supplémentaires
-concernant la méthodologie suivie pour la construction
-de cette base de diphones, retrouvez nous à l'adresse
+Cette base de donnÃ©es de diphones a Ã©tÃ© rÃ©alisÃ© par
+Vincent ARNAUD, Lucie MÃ‰NARD et Johanna-Pascale ROY.
+Si vous souhaitez des informations supplÃ©mentaires
+concernant la mÃ©thodologie suivie pour la construction
+de cette base de diphones, retrouvez nous Ã  l'adresse
 suivante :
 
   http://qcmbrola.smithware.ca

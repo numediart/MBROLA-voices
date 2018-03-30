@@ -30,7 +30,7 @@ g		grande		"gr am de		g
 p		pai		"pai			p
 t		taco		"tako			t
 
-f		fácil		"fasiw			f
+f		fÃ¡cil		"fasiw			f
 v		vinho		"vi nh o		v
 j		jato		"jato			Z
 s		sala		"sala			s
@@ -51,7 +51,7 @@ rr		torre		"to rr e		R
 a		vale		"vale			a
 @		tamanho		ta "m@ nh o		6	
 am		campanha	k am "pa nh a		---
-e		pêra		"pera			e
+e		pÃªra		"pera			e
 ee		quero		"k ee ro		E
 em		quente		"k em te		e~
 i		pico		"piko			i

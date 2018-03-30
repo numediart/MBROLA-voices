@@ -51,8 +51,8 @@ lengthened sound. Double consonants are included in diphone sets
 to improve the acoustical database quality.
 
 For further information about phoneme list, see:
-Bianchi, O., Orator Romanus. Une synthèse de la parole pour le
-latin classique, Université de Lausanne, 2005. (IN PROGRESS)
+Bianchi, O., Orator Romanus. Une synthÃ¨se de la parole pour le
+latin classique, UniversitÃ© de Lausanne, 2005. (IN PROGRESS)
 
 There are six 'simple' plosives, p b t d k g, and six double
 plosives, p: b: t: d: k: g:, and three simple aspirated voiceless

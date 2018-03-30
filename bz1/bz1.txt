@@ -11,7 +11,7 @@ B       B    ZZ      ZZ       11
 BBBBBBBB     ZZZZZZZZZZ     111111 release 0.99
 
 --------------------------------------------------------------
-          Diaz titouroù difonemoù evit ar Brezhoneg
+          Diaz titouroÃ¹ difonemoÃ¹ evit ar Brezhoneg
 --------------------------------------------------------------
 
 --------------------------------------------------------------
@@ -65,8 +65,8 @@ e~	bensel
 e~:	
 E	lemm
 E:	bered
-E~	peñse
-E:~	deñved
+E~	peÃ±se
+E:~	deÃ±ved
 2	meurzh
 2:	
 2~
@@ -76,25 +76,25 @@ E:~	deñved
 9~:	
 i	hili
 i:	hir
-i~	riñsoñ
-i~:	fiñv, hiñvis
+i~	riÃ±soÃ±
+i~:	fiÃ±v, hiÃ±vis
 j	yar
 o	pok
 o:	rod
 o~	plom
-o~:	soñj
+o~:	soÃ±j
 O	koll
 O:	lovr
 u	toull
 u:	tour
 y	pulluc'h
 y:	mul
-y~	[loc] puñs
-y~:	puñs
+y~	[loc] puÃ±s
+y~:	puÃ±s
 w	war
 H	ui
 
-[It seems that y~ (i.e. ÿ), long or normal, is missing, We have
+[It seems that y~ (i.e. Ã¿), long or normal, is missing, We have
 recorded it, wait for 0.99 !]
 
 Diphtongs :
@@ -117,10 +117,10 @@ ow
 b	berr
 d	du
 f	fust
-g	gar, genoù
+g	gar, genoÃ¹
 g'	     [ missing in 0.98 ]
 h	had, ar c'har
-J	poaniañ, pign
+J	poaniaÃ±, pign
 k	kalon
 k'	     [ missing in 0.98 ]
 l	lenn
@@ -134,9 +134,9 @@ s	sort
 S	choual
 t	ti
 v	van
-x	dic'houennañ
+x	dic'houennaÃ±
 z	jeu
-Z	bezañ
+Z	bezaÃ±
 
 
 Not all diphones are present (of course !), some do not occur
@@ -154,7 +154,7 @@ bz1		: the (huge) diphone database
 labels.txt	: the complete diphone list
 mbrola.pho	: Example : "Va mouezh a zo adsavet gant ar benveg
 		      nevez anvet MBROLA"
-aman.pho	: another example : "Amañ emañ ma zad ha ma mamm"
+aman.pho	: another example : "AmaÃ± emaÃ± ma zad ha ma mamm"
 galleg.pho	: french sentence, with breton accent.
 cafe.pho	: french sentence, with breton accent and syntax.
 doctor.pho	: french sentence, with typical breton syntax.
@@ -208,7 +208,7 @@ is to provide high quality Breton speech synthesis for language
 acquisition and teaching. Main partners in the team are :
 	- Lannion Computing Labs (IRISA labs) KGB team (mercier@enssat.fr)
 	            http://www.enssat.fr, http://www.irisa.fr
-	- TES (Ti-Embann ar Skolioù Brezhonek) (tes@tes.c-si.fr)
+	- TES (Ti-Embann ar SkolioÃ¹ Brezhonek) (tes@tes.c-si.fr)
 		    http://www.ac-rennes.fr/crdp/tes/
 
 For complaints, remarks, etc. about this specific work (the phoneme
@@ -224,7 +224,7 @@ A: Yes, we are.
 
 Q: Is there any application using this database yet ?
 A: There is: a vocal dictionnary (from F. Favereau "Geriadur ar Brezhoneg
-a-vremañ") on CD-ROM for Windoze'95 will be released soon (editors TES for
+a-vremaÃ±") on CD-ROM for Windoze'95 will be released soon (editors TES for
 schools and Skol Vreizh for individual users). A web version is planed too.
 
 Q: Bz1 and "dialects"...

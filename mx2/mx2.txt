@@ -3,9 +3,9 @@ release 0.1 - May 05
 --------------------------------------------------------------
 MX2 - A Mexican Spanish male voice for the MBROLA synthesizer
 
-Created by : The voice was created by Humberto PÈrez Espinosa
-at Instituto Nacional de AstrofÌsica ”ptica y ElectrÛnica,
-MÈxico
+Created by : The voice was created by Humberto P√©rez Espinosa
+at Instituto Nacional de Astrof√≠sica √ìptica y Electr√≥nica,
+M√©xico
 
 --------------------------------------------------------------
 Table of Contents
@@ -36,13 +36,13 @@ g       gata            "gata
 tS      mucho           "mutSo
 w       huele           "wele   (NOT sampa definition)
 
-f       f·cil           "fasil
+f       f√°cil           "fasil
 s       sala            "sala
 j       mujer           "mujer
 
 m       mismo           "mismo
 n       nunca           "nunka
-ny       aÒo             "anyo
+ny       a√±o             "anyo
 
 l       lejos           "lejos
 r       puro            "puro
@@ -53,7 +53,7 @@ e       pero            "pero
 a       valle           "badZe
 o       toro            "toro
 u       duro            "duro
-x       extraÒo         "extranyo
+x       extra√±o         "extranyo
 
 dZ      john            "dZon
 N       tang            "taN
@@ -97,10 +97,10 @@ Interesting link: http://ccc.inaoep.mx/
 
 Contact:
 
-Instituto Nacional de AstrofÌsica ”ptica y ElectrÛnica 
+Instituto Nacional de Astrof√≠sica √ìptica y Electr√≥nica 
 P.O. Box 72000
 Tonantzintla
 Puebla
-MÈxico
+M√©xico
 
 email: humbertop@ccc.inaoep.mx

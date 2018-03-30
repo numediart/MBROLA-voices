@@ -49,7 +49,7 @@ f	Vogel, schlaF
 v	Wasser, eVentuell
 s	aSt, haSS
 z	Sieb, beSen
-S	Sp‰t, aSCHe
+S	Sp√§t, aSCHe
 Z	Genie, DSCHungel
 x	naCH, doCH
 C	diCH, honiG
@@ -69,19 +69,19 @@ R	Riese, kRaut
 j	Jetzt, Jagd
                         
 aI	EIns, kAIser
-OY	ƒUﬂerung, nEU 
+OY	√ÑU√üerung, nEU 
 aU	AUf, schAU
  
 @	sehEn, bEsagt
 i:	Igel, bIEten
 I	In, bItten
-y:	‹bung, h‹ten
-Y	Ypsilon, h‹tten
+y:	√úbung, h√úten
+Y	Ypsilon, h√útten
 e:	bEten, schnEE
-E	bEtten, gƒste
-E:	ƒsen, geblƒse
-2:	÷fen, m÷gen
-9	÷ffnen, k÷nnen
+E	bEtten, g√Ñste
+E:	√Ñsen, gebl√Ñse
+2:	√ñfen, m√ñgen
+9	√ñffnen, k√ñnnen
 u:	bUHlen, gUt
 U	lUstig, bUtter
 o:	Ofen, kOHl
@@ -180,7 +180,7 @@ an efficient version of this database.
 Dr Fred Englert
 
 Johann Wolfgang Goethe-Universitaet
-Institut f¸r Phonetik
+Institut f√ºr Phonetik
 PF 11 19 32
 D-60054 Frankfurt am Main  
 

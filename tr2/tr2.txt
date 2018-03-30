@@ -21,30 +21,30 @@ PHONEME	IN WORD         IN WORD ISO LATIN2
 a		zar	        	zar	                              
 b		batak            	batak                              
 dZ		can             	dZan                              
-tS		çan			tSan
+tS		Ã§an			tSan
 d		dudak 		dudak                              
 e		ekin			ekIn
 f		fakat			fakat
 g		geri			gerI
-G		sað(right)		saG                              
+G		saÃ°(right)		saG                              
 h		hasan           	hasan                              
-@		sýnav			s@nav                              
+@		sÃ½nav			s@nav                              
 I		izin			IzIn                              
 Z		jeton			Zeton                              
-k		kalýn			kal@n                              
+k		kalÃ½n			kal@n                              
 l		sal			sal                              
-L		la minör		La mIn@'r(this allophone is added for trial)                              
+L		la minÃ¶r		La mIn@'r(this allophone is added for trial)                              
 m		maymun		majmun                
-n		nasýl?		nas@l?                   
+n		nasÃ½l?		nas@l?                   
 o		osman			osman                           
-@'		ölü 			@'ly                      
+@'		Ã¶lÃ¼ 			@'ly                      
 p		para			para                     
 r		para			para                     
 s		sakat			sakat                     
-S		kaþ göz 		kaS g@'z                   
+S		kaÃ¾ gÃ¶z 		kaS g@'z                   
 t		tarak			tarak                 
 u		usta			usta                          
-y		ürkek			yrkek                     
+y		Ã¼rkek			yrkek                     
 v		kavak			kavak                    
 j		kayak			kajak                   
 z		kazak			kazak                   

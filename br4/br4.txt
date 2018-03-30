@@ -21,7 +21,7 @@ It provides a Portuguese female voice to be used with the MBROLA program.
 The corpus was taken from Carioca Speech from Rio de Janeiro, recorded
 by a brazilian TV reporter, Liane Borges, in 16000 KHz.
 
-This database has been created as an initiative of Serpro - Serviço
+This database has been created as an initiative of Serpro - ServiÃ§o
 Federal de Processamento de Dados, to be used as a good free voice
 syntesis alternative for accessibility systems in Brasil.  It's
 commonly used together with the Serpro LianeTTS brazilian portuguese
@@ -33,11 +33,11 @@ PHONEME 	EXAMPLE		TRANSCRIPTION
 
 _		(silence)
 a		pata		p a t a
-@		ação		a s @ w
+@		aÃ§Ã£o		a s @ w
 b		bata		b a t a
 d		dado		d a d w
 e		pedir		p e d i r2
-ee		café		k a f ee
+ee		cafÃ©		k a f ee
 en		pente		p en t y
 f		faca		f a k a
 g		gato		g a t w
@@ -130,24 +130,24 @@ attention in preparing the database.
 
 --------------------------------------------------------------
 
-Serpro - Serviço Federal de Processamento de Dados
+Serpro - ServiÃ§o Federal de Processamento de Dados
 
-Dilson José dos Santos
-Coordenador Estratégico de Responsabilidade Social e Cidadania. 
+Dilson JosÃ© dos Santos
+Coordenador EstratÃ©gico de Responsabilidade Social e Cidadania. 
 
 Claudio Maia Dallalana
 Accessibility Projects Manager
 claudio-maia.dallalana@serpro.gov.br
 
-Prof. Dr. José Antonio Borges
+Prof. Dr. JosÃ© Antonio Borges
 Technical Consultant on Speech Synthesis
 
-Speaker:  Liane Paixão Borges
+Speaker:  Liane PaixÃ£o Borges
 
 The Serpro Liane-TTS Compiler
-		Prof. José Antonio Borges
+		Prof. JosÃ© Antonio Borges
 		Prof. Antonio Anibal Teles
-(Núcleo de Computação Eletrônica - Federal University of Rio de Janeiro)
+(NÃºcleo de ComputaÃ§Ã£o EletrÃ´nica - Federal University of Rio de Janeiro)
 
 For technical questions concerning the br4 database or the Liane TTS
 Compiler, please send an e-mail to antonio2@nce.ufrj.br

@@ -10,7 +10,7 @@ Release 1.00
 --------------------------------------------------------------
 SW1-Lukas voice, a Swedish male voice for the MBROLA synthesizer
 
-Created  by Marcus  Filipsson  and Gösta Bruce   of the  Department of
+Created  by Marcus  Filipsson  and GÃ¶sta Bruce   of the  Department of
 Linguistics and Phonetics of Lund University, Sweden.
 
 ------------------------------------------------------------
@@ -36,40 +36,40 @@ b	bil	bi:l
 t	stal	stA:l
 d	dal	dA:l
 k	skal	skA:l
-g	gås	go:s
+g	gÃ¥s	go:s
 f	fil	fi:l
-v	vår	vo:r
+v	vÃ¥r	vo:r
 s	sil	si:l
 S	sjuk	S}:k
 h	hal	hA:l
 C	tjock	COk
 m	mil	mi:l
-n	nål	no:l
+n	nÃ¥l	no:l
 N	ring	rIN
 r	ris	ri:s
-l	lös	l2:s
+l	lÃ¶s	l2:s
 j	jag	jA:g
 i:	vit	vi:t
 e:	vet	ve:t
-E:	säl	sE:l
+E:	sÃ¤l	sE:l
 y:	syl	sy:l
 }:	hus	h}:s
-2:	föl	f2:l
+2:	fÃ¶l	f2:l
 u:	sol	su:l
-o:	hål	ho:l
+o:	hÃ¥l	ho:l
 A:	hal	hA:l
 I	vitt	vIt
 e	vett	vet
 Y	bytt	bYt
 u0	buss	bu0s
-2	föll	f2l
+2	fÃ¶ll	f2l
 U	bott	bUt
-O	håll	hOl
+O	hÃ¥ll	hOl
 a	hall	hal
-{:	här	h{:r	pre-r allophone of E:
-9:	för	f9:r		"	   2:
+{:	hÃ¤r	h{:r	pre-r allophone of E:
+9:	fÃ¶r	f9:r		"	   2:
 {	herr	h{r		"	   e
-9	förr	f9r		"	   2
+9	fÃ¶rr	f9r		"	   2
 @	pojken	pOjk@n  schwa vowel allophone
 rt	hjort	jUrt	retroflex consonant
 rd	bord	bu:rd		"
@@ -197,7 +197,7 @@ TTS systems are listed at :
 
 --------------------------------------------------------------
 		  Marcus Filipsson
-		  Gösta Bruce
+		  GÃ¶sta Bruce
 		  Department of Linguistics and Phonetics
 		  Helgonabacken 12
 		  Lund University

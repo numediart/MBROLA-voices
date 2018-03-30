@@ -51,55 +51,55 @@ distinction in the current version of the database.
 - Thus, 37 clusters are currently defined:
 
 UoA-TtS-PA 	SAMPA	Example 	Hellenic transcription (ISO8859-7)(English)
-_		_	(silence)	(παύση) (pause)
+_		_	(silence)	(Γ°Γ΅Γ½Γ³Γ§) (pause)
 
 [consonants]
-p		p	patAta		πατάτα (potato)
-b		b	balOni		μπαλόνι (baloon)
-t		t	tirOpita	τυρόπιττα (cheesepie)
-d		d	dInome		ντύνομαι (get dressed)
-k		k	kalAmi		καλάμι (cane)
-c		c	cerI		κερί (candle)
-g		g	gremIzo		γκρεμίζω (blast) 
-q		gj	aqelIa		αγγελία (announcement)
+p		p	patAta		Γ°Γ΅Γ΄ΓΓ΄Γ΅ (potato)
+b		b	balOni		Γ¬Γ°Γ΅Γ«ΓΌΓ­Γ© (baloon)
+t		t	tirOpita	Γ΄ΓµΓ±ΓΌΓ°Γ©Γ΄Γ΄Γ΅ (cheesepie)
+d		d	dInome		Γ­Γ΄Γ½Γ­Γ―Γ¬Γ΅Γ© (get dressed)
+k		k	kalAmi		ΓªΓ΅Γ«ΓΓ¬Γ© (cane)
+c		c	cerI		ΓªΓ¥Γ±Γ (candle)
+g		g	gremIzo		Γ£ΓªΓ±Γ¥Γ¬ΓΓ¦ΓΉ (blast) 
+q		gj	aqelIa		Γ΅Γ£Γ£Γ¥Γ«ΓΓ΅ (announcement)
 
-f		f	fotinO		φωτεινό (luminous)
-v		v	vuLAzo		βουλιάζω (sink)
-T		T	Talassa		θάλασσα (sea)
-D		D	DAskalos	δάσκαλος (teacher)
-s		s	salAta		σαλάτα (salad)
-z		z	zoGraficI	ζωγραφική (paint)
+f		f	fotinO		Γ¶ΓΉΓ΄Γ¥Γ©Γ­ΓΌ (luminous)
+v		v	vuLAzo		ΓΆΓ―ΓµΓ«Γ©ΓΓ¦ΓΉ (sink)
+T		T	Talassa		Γ¨ΓΓ«Γ΅Γ³Γ³Γ΅ (sea)
+D		D	DAskalos	Γ¤ΓΓ³ΓªΓ΅Γ«Γ―Γ² (teacher)
+s		s	salAta		Γ³Γ΅Γ«ΓΓ΄Γ΅ (salad)
+z		z	zoGraficI	Γ¦ΓΉΓ£Γ±Γ΅Γ¶Γ©ΓªΓ (paint)
 
-G		G	GAla		γάλα (milk)
-j		jj,j	jortI, vjEno	γιορτή, βγαίνω (celebration, go out)
+G		G	GAla		Γ£ΓΓ«Γ΅ (milk)
+j		jj,j	jortI, vjEno	Γ£Γ©Γ―Γ±Γ΄Γ, ΓΆΓ£Γ΅ΓΓ­ΓΉ (celebration, go out)
 
-x		x	xarUmenos	χαρούμενος (happy)
-C		C	CEri		χέρι (hand)
+x		x	xarUmenos	Γ·Γ΅Γ±Γ―Γ½Γ¬Γ¥Γ­Γ―Γ² (happy)
+C		C	CEri		Γ·ΓΓ±Γ© (hand)
 	
-m		m	mATima		μάθημα (lesson)
-M		mj	apaneMA		απανεμιά (calm)
+m		m	mATima		Γ¬ΓΓ¨Γ§Γ¬Γ΅ (lesson)
+M		mj	apaneMA		Γ΅Γ°Γ΅Γ­Γ¥Γ¬Γ©Γ (calm)
 
-n		n	nanUrisma	νανούρισμα (lullaby)
-N		nj	NaurIzo		νιαουρίζω (meow)
-V		(-)	aVgaLAzo	αγκαλιάζω (bosom)
+n		n	nanUrisma	Γ­Γ΅Γ­Γ―Γ½Γ±Γ©Γ³Γ¬Γ΅ (lullaby)
+N		nj	NaurIzo		Γ­Γ©Γ΅Γ―ΓµΓ±ΓΓ¦ΓΉ (meow)
+V		(-)	aVgaLAzo	Γ΅Γ£ΓªΓ΅Γ«Γ©ΓΓ¦ΓΉ (bosom)
 
-r		r	ropI		ροπή (torsion)
-R		r	tRopI		τροπή (turn)
+r		r	ropI		Γ±Γ―Γ°Γ (torsion)
+R		r	tRopI		Γ΄Γ±Γ―Γ°Γ (turn)
 
-l		l	lAva		λάβα (lava)
-L		lj	LOno		λιώνω (melt)
+l		l	lAva		Γ«ΓΓΆΓ΅ (lava)
+L		lj	LOno		Γ«Γ©ΓΎΓ­ΓΉ (melt)
 
-S		ts	SalakOno	τσαλακώνω (crumple)
-Z		dz	ZamarIa		τζαμαρία (glass)
-X		ks	XirAfi  	ξυράφι (razor) 
-Y		ps	YAri		ψάρι (fish)
+S		ts	SalakOno	Γ΄Γ³Γ΅Γ«Γ΅ΓªΓΎΓ­ΓΉ (crumple)
+Z		dz	ZamarIa		Γ΄Γ¦Γ΅Γ¬Γ΅Γ±ΓΓ΅ (glass)
+X		ks	XirAfi  	Γ®ΓµΓ±ΓΓ¶Γ© (razor) 
+Y		ps	YAri		ΓΈΓΓ±Γ© (fish)
 
 [vowels]
-a		a	aEras		αέρας (wind)
-e		e	elpIDa		ελπίδα (hope)
-i		i	irIni		ειρήνη (peace)
-o		o	Oros		όρος (clause)
-u		u	uranOs		ουρανός (sky)
+a		a	aEras		Γ΅ΓΓ±Γ΅Γ² (wind)
+e		e	elpIDa		Γ¥Γ«Γ°ΓΓ¤Γ΅ (hope)
+i		i	irIni		Γ¥Γ©Γ±ΓΓ­Γ§ (peace)
+o		o	Oros		ΓΌΓ±Γ―Γ² (clause)
+u		u	uranOs		Γ―ΓµΓ±Γ΅Γ­ΓΌΓ² (sky)
 
 b. Use of the database
 ----------------------

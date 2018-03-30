@@ -33,23 +33,23 @@ v			wilk			vilk
 s			syk			sIk	
 z			zbir			zbir	
 S			szyk			SIk	
-Z			¿yto			ZIto	
-s'			œwit			s'vit	
-z'			Ÿle			z'le	
+Z			Å¼yto			ZIto	
+s'			Å›wit			s'vit	
+z'			Åºle			z'le	
 x			hymn			xImn	
 ts			cyk			tsIk	
 dz			dzwon			dzvon	
 tS			czyn			tSIn	
-dZ			d¿em			dZem	
-ts'			æma			ts'ma	
-dz'			dŸwig			dz'vik	
+dZ			dÅ¼em			dZem	
+ts'			Ä‡ma			ts'ma	
+dz'			dÅºwig			dz'vik	
 m			mysz			mIS	
 n			nasz			naS	
-n'			koñ			kon'	
-N			pêk			peNk	
+n'			koÅ„			kon'	
+N			pÄ™k			peNk	
 l			luk			luk	
 r			ryk			rIk	
-w			³yk			wIk	
+w			Å‚yk			wIk	
 j			jak			jak	
 
 Krzysztof Szklanny /PJWSTK & Krzysztof Marasek

@@ -4,7 +4,7 @@ I created this voice as a part of my diploma thesis,
 which is concerned with building a Text-To-Speech
 System for the Bavarian dialect. The thesis was written 
 at the TFH Berlin {Technische Fachhochschule Berlin} 
-in 2004 with the assistance of Prof. Dr.-Ing. Hans-Jörg 
+in 2004 with the assistance of Prof. Dr.-Ing. Hans-JÃ¶rg 
 Mixdorff, whom I want to thank for his support.
 
 Initially I tried to replicate the Bavarian dialect
@@ -23,7 +23,7 @@ and the surrounding area.  I found 11 vowels,
 11 diphthongs and 21 consonants or combinations of
 consonants, which are listed below. I tried to label
 the phones close to the SAMPA-notation, but sometimes
-I had to invent my own ‘SAMPA’-Labels.
+I had to invent my own Â‘SAMPAÂ’-Labels.
 
 -------------------------------------------
 Phone	Example				Translation to German
@@ -39,22 +39,22 @@ I		dRIn, lIgd				drinnen, liegt
 i:		mASi:n, si:				Maschine, sich
 o:	o:bst, gno:mA		Obst, genommen
 O		SOlOd, glOs			Salat, Glas
-9		g9fned, k9RbA		geöffnet, Körper
+9		g9fned, k9RbA		geÃ¶ffnet, KÃ¶rper
 U		nUndA, RUnd			hinunter, rund
 
 Diphthongs:
 -----------
-AI	vAId, hAIfde			Welt, Hälfte
+AI	vAId, hAIfde			Welt, HÃ¤lfte
 aU	maUs, baU				Maus, Bau
-aI	dAfaId, haIsA		verfault, Häuser
+aI	dAfaId, haIsA		verfault, HÃ¤user
 eA	eAna, veAd			ihnen, wird
-IA	mIAsn, glavIA		müssen, Klavier
+IA	mIAsn, glavIA		mÃ¼ssen, Klavier
 OA	OAns, dOAg			eins, Teig
 OI	kAnOI, vOId			Kanal, Wald
 oI	foI, gSdoIn			voll, gestohlen
 OU	rOUd, dOUd			rot, tot
 UA	bUASn, RUA			Burschen, Ruhe
-UI	gfUI, SbUI				Gefühl, Spiel
+UI	gfUI, SbUI				GefÃ¼hl, Spiel
 
 Konsonants:
 -----------
@@ -74,7 +74,7 @@ m		hamA						Hammer
 n		nOxAd						nachher
 N		aNgsd						Angst
 R		RUmben					rumpeln
-s		mas							Maß
+s		mas							MaÃŸ
 S		bolIdiS					politisch
 Z		ZUId						die "Schuld" (oder "schuld" sein)
 t		tUAm						Turm

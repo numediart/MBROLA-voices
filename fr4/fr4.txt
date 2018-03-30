@@ -37,13 +37,13 @@ editor to see it correctly )
 
 SAMPA	EXAMPLES
 i	idiot, ami
-e	ému, été
+e	Ã©mu, Ã©tÃ©
 E	perdu, maison
 a	alarme, patte
 O	obstacle, corps
 o	auditeur, beau
 u	coupable, loup
-y	punir, élu
+y	punir, Ã©lu
 2	creuser, deux
 9	malheureux, peur
 @	petite, fortement
@@ -51,22 +51,22 @@ e~	peinture, matin
 a~	vantardise, temps
 o~	rondeur, bon
 9~	lundi, brun
-j	piétiner, choyer
+j	piÃ©tiner, choyer
 w	quoi, fouine
 H	huile, nuage
 p	patte, repas, cap
-t	tête, net
-k	carte, écaille, bec
-b	bête, habile, robe
+t	tÃªte, net
+k	carte, Ã©caille, bec
+b	bÃªte, habile, robe
 d	dire, rondeur, chaud
-g	gauche, égal, bague
+g	gauche, Ã©gal, bague
 f	feu, affiche, chef
 s	soeur, assez, passe
 S	chanter, machine, poche
-v	vent, inventer, rêve
-z	zéro, raisonner, rose
-Z	jardin, manger, piège
-l	long, élire, bal
+v	vent, inventer, rÃªve
+z	zÃ©ro, raisonner, rose
+Z	jardin, manger, piÃ¨ge
+l	long, Ã©lire, bal
 R	rond, charriot, sentir
 m	madame, aimer, pomme
 n	nous, punir, bonne
@@ -77,7 +77,7 @@ Limitations:
 -----------
 Notice that SAMPA 'h' (halte,hop) is not defined.
 
-SAMPA 'J'  (agneau, peigner, règne) should  be entered as two separate
+SAMPA 'J'  (agneau, peigner, rÃ¨gne) should  be entered as two separate
 phonemes : 'n' and 'j'.
 
 --------------------------------------------------------------

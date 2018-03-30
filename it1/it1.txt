@@ -16,13 +16,13 @@ I2		pino		/"pino/
 O		sono		/"sono/
 O1		moto		/"mOto/                              
 O2		come        /"kome/                              
-U		unit‡		/unit"a/                              
+U		unit√†		/unit"a/                              
 U2		fumo		/"fumo/                              
 
 J		ieri		/"jEri/                              
 W		uomo        /"wOmo/                              
 
-P		pap‡	      /pa"pa/            
+P		pap√†	      /pa"pa/            
 T		tana	      /"tana/            
 K		cane		/"kane/                
 B		bene		/"bene/                   
@@ -77,7 +77,7 @@ RR		erre        /"Erre/
 Contact:
 --------
 Diphones provided by Claudia Citta <ccitta@hotmail.be>
-FacultÈ Polytechnique de Mons, TCTS Lab
+Facult√© Polytechnique de Mons, TCTS Lab
 Initialis Scientific Parc, Avenue Copernic
 B7000 MONS
 Belgium
