@@ -1,9 +1,9 @@
 # MBROLA voices database
 
-This project provides list of [MBROLA](http://tcts.fpms.ac.be/synthesis/mbrola.html) speech synthesizer voices listed in [MBROLA Bin and Databases](http://www.tcts.fpms.ac.be/synthesis/mbrola/mbrcopybin.html) page. It is intended to provide easier collaboration and automatic updates for individual users and packagers.
+This project provides list of [MBROLA](https://github.com/numediart/MBROLA) speech synthesizer voices. It is intended to provide easier collaboration and automatic updates for individual users and packagers.
 
 If you want to use this database look at [License](LICENSE.md),
-or, if you want to contribute with new voice data, read [New MBROLA databases](http://tcts.fpms.ac.be/synthesis/mbrola.html) page.
+or, if you want to contribute with new voice data, read [New MBROLA databases](https://github.com/numediart/MBROLATOR) page.
 
 To download data file for particular voice, click on filename you want to download and save it in MBROLA data folder:
 e.g. `C:/Program Files/eSpeak/espeak-ng-data/mbrola` for Windows systems, or `/usr/share/mbrola/xxN/` for Unix-like systems.
