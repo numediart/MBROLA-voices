@@ -35,7 +35,7 @@ Terms and conditions on the use of FR1
 Permission is  granted to use   this database for synthesizing  speech
 with and only with the  Mbrola program made  available from the MBROLA
 project www homepage :  
-   http://tcts.fpms.ac.be/synthesis/mbrola.html
+   https://github.com/numediart/MBROLA/
    
 following the terms and conditions on the use of the Mbrola program.
 
@@ -64,7 +64,7 @@ THIRD PARTY RIGHTS.
 --------------------------------------------------------------
 FR1-BE 2.00b  release  (alias SAMPA  release )   is a  French  diphone
 database  provided   in the   context  of   the  MBROLA   project (see
-http://tcts.fpms.ac.be/synthesis). 
+https://github.com/numediart/MBROLA/). 
 
 It provides  a French male voice  (the  author's one, actually)  to be
 used with the MBROLA program. 
@@ -169,7 +169,7 @@ double click on any of the .pho file and listen to the voice.
 Additional  languages and  voices,  as well as   other example command
 files,   are or  will  be  available  in  the  context of  the  MBROLA
 project. Please consult the MBROLA project homepage :  
-   http://tcts.fpms.ac.be/synthesis
+   https://github.com/numediart/MBROLA/
 
 Registered users will automatically be notified of the availability of
 new  databases.   To    freely register, simply   send   an   email to

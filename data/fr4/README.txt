@@ -22,7 +22,7 @@ Table of Contents
 --------------------------------------------------------------
 
 FR4 2.069 release is a French diphone database provided in the context
-of the MBROLA project see: http://tcts.fpms.ac.be/synthesis
+of the MBROLA project see: https://github.com/numediart/MBROLA/
 
 It  provides  a French  female   voice  to  be  used  with the  MBROLA
 program. The central  pitch of the database  is 200Hz, and the nominal
@@ -100,7 +100,7 @@ mbrola.pho      My voice is synthesized thanks to a new bla bla bla
 Additional languages  and  voices, as  well as other   example command
 files,  are or   will  be available in   the   context of  the  MBROLA
 project. Please consult the MBROLA project homepage : 
-   http://tcts.fpms.ac.be/synthesis
+   https://github.com/numediart/MBROLA/
 
 Registered users will automatically be notified of the availability of
 new   databases.  To   freely  register,  simply   send an   email  to

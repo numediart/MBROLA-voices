@@ -49,7 +49,7 @@ Roger database  for synthesizing speech  with and only  with
 the Mbrola  program made  available  from the MBROLA project 
 www homepage :
 
-   http://tcts.fpms.ac.be/synthesis/mbrola.html
+   https://github.com/numediart/MBROLA/
 
 following the terms and conditions on the use of the  Mbrola
 program.
@@ -116,7 +116,7 @@ WORK.
 EN1 release  is  a British English  diphone  database
 provided in the context of the MBROLA project :
 
-   http://tcts.fpms.ac.be/synthesis/mbrola.html
+   https://github.com/numediart/MBROLA/
 
 It  provides a British English male voice (known as "RogerÆs
 voice")  to  be used with the MBROLA program.  It  has  been
@@ -243,7 +243,7 @@ command  files, are or will be available in the  context  of
 the  MBROLA  project.  Please  consult  the  MBROLA  project
 homepage :
 
-   http://tcts.fpms.ac.be/synthesis/mbrola.html
+   https://github.com/numediart/MBROLA/
 
 Registered  users  will automatically  be  notified  of  the
 availability  of  new databases. To freely register,  simply
@@ -307,7 +307,7 @@ to-speech system developed at CSTR and available at :
 (Other possible uses of the mbrola speech synthesizer  within
 complete TTS systems are listed at :
 
-   http://tcts.fpms.ac.be/synthesis/mbrtts.html)
+   https://github.com/numediart/MBROLA/)
 
 ------------------------------------------------------------
 

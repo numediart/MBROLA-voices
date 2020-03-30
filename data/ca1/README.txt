@@ -127,7 +127,7 @@ dans le cadre du projet MBROLA. Pour de plus amples
 informations, consultez le site du projet MBROLA, à
 l'adresse suivante :
 
-  http://tcts.fpms.ac.be/synthesis
+  https://github.com/numediart/MBROLA/
 
 Les utisateurs répertoriés recevront automatiquement
 les dernières nouvelles du projet MBROLA. Pour

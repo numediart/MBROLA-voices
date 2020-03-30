@@ -20,7 +20,7 @@ Linguistics and Phonetics of Lund University, Sweden.
 SW1 1.00 release is a Swedish diphone database provided in the context
 of the MBROLA project :
 
-   http://tcts.fpms.ac.be/synthesis/mbrola.html
+   https://github.com/numediart/MBROLA/
 
 It provides a Swedish male voice  (known as "Lukas") to be used with
 the MBROLA program.
@@ -168,7 +168,7 @@ command  files, are or will be available in the  context  of
 the  MBROLA  project.  Please  consult  the  MBROLA  project
 homepage :
 
-   http://tcts.fpms.ac.be/synthesis
+   https://github.com/numediart/MBROLA/
 
 Registered  users  will automatically  be  notified  of  the
 availability  of  new databases. To freely register,  simply
@@ -192,7 +192,7 @@ this document.
 (Other possible uses of the mbrola speech synthesizer  within complete
 TTS systems are listed at : 
 
-   http://tcts.fpms.ac.be/synthesis/mbrtts.html)
+   https://github.com/numediart/MBROLA/)
 
 
 --------------------------------------------------------------

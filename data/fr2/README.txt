@@ -23,7 +23,7 @@ Table of Contents
 
 FR2 2.060 release is a French diphone database provided in the context
 of the MBROLA project see: 
-         http://tcts.fpms.ac.be/synthesis/mbrola.html
+         https://github.com/numediart/MBROLA/
 
 It  provides  a French  female   voice  to  be  used  with the  MBROLA
 program. The central  pitch of the database  is 230Hz, and the nominal
@@ -103,7 +103,7 @@ and a number of example .PHO files :
 Additional languages  and  voices, as  well as other   example command
 files,  are or   will  be available in   the   context of  the  MBROLA
 project. Please consult the MBROLA project homepage : 
-   http://tcts.fpms.ac.be/synthesis
+   https://github.com/numediart/MBROLA/
 
 Registered users will automatically be notified of the availability of
 new   databases.  To   freely  register,  simply   send an   email  to

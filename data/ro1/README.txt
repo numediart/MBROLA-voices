@@ -21,7 +21,7 @@ Table of Contents
 --------------------------------------------------------------
 RO1 2.020 release is a Romanian diphone database provided in the
 context of the MBROLA project
-(see http://tcts.fpms.ac.be/synthesis/mbrola.html).
+(see https://github.com/numediart/MBROLA/).
 
 It provides a Romanian male voice to be used with the MBROLA program.
 
@@ -43,7 +43,7 @@ and a TEST directory containing .PHO files
 Additional languages and voices, as well as other example command
 files, are or will be available in the context of the MBROLA 
 project. Please consult the MBROLA project homepage :
-   http://tcts.fpms.ac.be/synthesis/mbrola.html
+   https://github.com/numediart/MBROLA/
 
 Registered users will automatically be notified of the availability 
 of new databases. To freely register, simply send an email to 

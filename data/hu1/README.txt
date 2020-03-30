@@ -22,7 +22,7 @@ Table of Contents
 --------------------------------------------------------------
 HU1 1.002 equalized release is a Hungarian diphone database provided in
 the context of the MBROLA project (see
-http://tcts.fpms.ac.be/synthesis).
+https://github.com/numediart/MBROLA/).
 
 It provides a Hungarian female voice to be used with the MBROLA program.
 
@@ -114,7 +114,7 @@ files are automatically generates, some copy natural prosody.
 Additional languages and voices, as well as other example command
 files, are or will be available in the context of the MBROLA 
 project. Please consult the MBROLA project homepage :
-   http://tcts.fpms.ac.be/synthesis
+   https://github.com/numediart/MBROLA/
 
 Registered users will automatically be notified of the availability 
 of new databases. To freely register, simply send an email to 

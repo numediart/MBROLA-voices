@@ -139,7 +139,7 @@ lettres.)
 If  you  have  not copied   the MBROLA software   yet,  please consult
 the MBROLA project homepage and get it:
 
-                    http://tcts.fpms.ac.be/synthesis 
+                    https://github.com/numediart/MBROLA/ 
 
 Copy hn1.zip into the mbrola directory and unzip it : 
 

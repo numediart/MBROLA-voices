@@ -15,7 +15,7 @@ Table of Contents
 --------------------------------------------------------------
 BR3 is a Brazilian Portuguese diphone database provided in the
 context of the MBROLA project
-(see http://tcts.fpms.ac.be/synthesis).
+(see https://github.com/numediart/MBROLA/).
 
 It provides a Portuguese male voice to be used with the MBROLA program.
 
@@ -83,7 +83,7 @@ This distribution of mbrola contains the following files :
 Additional languages and voices, as well as other example command
 files, are or will be available in the context of the MBROLA 
 project. Please consult the MBROLA project homepage :
-   http://tcts.fpms.ac.be/synthesis
+   https://github.com/numediart/MBROLA/
 
 Registered users will automatically be notified of the availability 
 of new databases. To freely register, simply send an email to 

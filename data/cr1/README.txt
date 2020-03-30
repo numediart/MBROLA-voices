@@ -119,7 +119,7 @@ example.pho
 
 Please consult the MBROLA project homepage :
 
-   http://tcts.fpms.ac.be/synthesis/mbrola.html
+   https://github.com/numediart/MBROLA/
 
 Registered users will automatically be notified of the availability 
 of new databases. To freely register, simply send an email to 

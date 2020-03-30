@@ -15,7 +15,7 @@ Table of Contents
 1. Brief description of MA1 database
 -------------------------------------------------------
 MA1 is a Malay female diphone database provided in the
-context of the MBROLA project (http://tcts.fpms.ac.be/synthesis).
+context of the MBROLA project (https://github.com/numediart/MBROLA/).
 
 It consists of 801 diphones.
 
@@ -84,7 +84,7 @@ and @U phonemes instead.
 2. Distribution and test
 ---------------------------------------------------------
 If you have not copied the MBROLA software yet, please consult
-the MBROLA project homepage (http://tcts.fpms.ac.be/synthesis).
+the MBROLA project homepage (https://github.com/numediart/MBROLA/).
 Refer to the readme.txt file provided with the mbrola software
 for using it. 
 

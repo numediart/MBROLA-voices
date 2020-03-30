@@ -21,7 +21,7 @@ Table of Contents
 1.0 A brief description of VZ1
 --------------------------------------------------------------
 VZ1 2 equalized release is a Venezuelan Spanish diphone database provided in
-the context of the MBROLA project (see http://tcts.fpms.ac.be/synthesis).
+the context of the MBROLA project (see https://github.com/numediart/MBROLA/).
 
 It provides a Venezuelan Spanish male voice to be used with the MBROLA program.
 
@@ -85,7 +85,7 @@ files are automatically generates, some copy natural prosody.
 Additional languages and voices, as well as other example command
 files, are or will be available in the context of the MBROLA 
 project. Please consult the MBROLA project homepage :
-   http://tcts.fpms.ac.be/synthesis
+   https://github.com/numediart/MBROLA/
 
 Registered users will automatically be notified of the availability 
 of new databases. To freely register, simply send an email to 

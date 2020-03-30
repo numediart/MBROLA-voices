@@ -119,7 +119,7 @@ for using it.
 If  you  have  not copied   the MBROLA software   yet,  please consult
 the MBROLA project homepage and get it:
 
-	 http://tcts.fpms.ac.be/synthesis
+	 https://github.com/numediart/MBROLA/
 
 Copy ar1.zip into your target directory and unzip it : 
 
@@ -168,5 +168,5 @@ Faculte Polytechnique de Mons
 31, bvd Dolez, B-7000 Mons, Belgium
 tel: +32 65 374133  fax:374129            
 email : mbrola@tcts.fpms.ac.be
-web   : http://tcts.fpms.ac.be/synthesis
+web   : https://github.com/numediart/MBROLA/
 --------------------------------------------------------------

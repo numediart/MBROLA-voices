@@ -23,7 +23,7 @@ Table of Contents
 1. Brief description of GR1 database
 -------------------------------------------------------
 GR1 1.00 release is a Hellenic diphone database provided in the
-context of the MBROLA project (http://tcts.fpms.ac.be/synthesis).
+context of the MBROLA project (https://github.com/numediart/MBROLA/).
 
 It provides a Greek male voice to be used with the MBROLA program.
 
@@ -126,7 +126,7 @@ This distribution of mbrola db contains the following files:
 Additional languages and voices, as well as other example command
 files, are or will be available in the context of the MBROLA
 project. Please consult the MBROLA project homepage : 
-   http://tcts.fpms.ac.be/synthesis
+   https://github.com/numediart/MBROLA/
 
 Registered users will automatically be notified of the availability of
 new  databases.   To  freely   register, simply   send   an email   to

@@ -24,7 +24,7 @@ Table of Contents
 --------------------------------------------------------------
 
 CA2 release 03/10/22 is a Canadian-French diphone database provided in the context
-of the MBROLA project see: http://tcts.fpms.ac.be/synthesis
+of the MBROLA project see: https://github.com/numediart/MBROLA/
 
 It  provides  a French-Canadian male half-singing voice to be used with the MBROLA
 program. The central pitch of the database is ##200Hz, and the nominal

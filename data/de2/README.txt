@@ -8,7 +8,7 @@
         #####       #####       DE2 (release 990106) is a diphone database
           #############         for German provided in the context of the
              #######            MBROLA project
-       #                 #      (http://tcts.fpms.ac.be/synthesis/).
+       #                 #      (https://github.com/numediart/MBROLA/).
        ###################
        ###################      It provides a German male voice to be
        #         #       #      used with the MBROLA program.
@@ -54,7 +54,7 @@
                                 available in the context of the MBROLA          
                                 project. Please consult the MBROLA project      
                                 homepage :                                      
-                                   http://tcts.fpms.ac.be/synthesis/            
+                                   https://github.com/numediart/MBROLA/            
                                 Registered users will automatically be notified 
                                 of the availability of new databases. To freely 
        #                        register, simply send an email to               

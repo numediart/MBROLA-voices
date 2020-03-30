@@ -17,7 +17,7 @@ Permission is granted  to  use this database for  synthesizing  speech
 with and only  with the Mbrola program made  available from the MBROLA
 project www homepage : 
 
-   http://tcts.fpms.ac.be/synthesis
+   https://github.com/numediart/MBROLA/
    
 Terms and conditions for the distribution of FR3
 ------------------------------------------------

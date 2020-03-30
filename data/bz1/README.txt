@@ -167,7 +167,7 @@ doctor.pho	: french sentence, with typical breton syntax.
 
 If you have not copied the MBROLA software yet, please consult
 the MBROLA project homepage and get it at
-http://tcts.fpms.ac.be/synthesis/mbrola.html
+https://github.com/numediart/MBROLA/
 
 Copy bz1.zip into the mbrola directory and unzip it : 
 
